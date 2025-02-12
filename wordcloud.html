@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Word Cloud</title>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/wordcloud2.js/1.2.3/wordcloud2.js"
+      integrity="sha512-wQ35vn1edvCAanCE6SCI5cvj15AMU+wJcjvmsXy7JNaYsV1biOptt7ipjoI2neb0Ram5GE2lh/Tnpjta1WsntA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <style>
+      #wordcloud {
+        width: 500px;
+        height: 500px;
+        margin: 0 auto;
+      }
+
+      #wordcloud > span {
+        opacity: 0;
+      }
+
+      #wordcloud > .opacity-1 {
+        opacity: 1;
+      }
+
+      #wordcloud > .word0 {
+        opacity: 1;
+      }
+    </style>
+  </head>
+
+  <body>
+    <audio style="display: none" id="myAudio" controls autoplay>
+      <source src="./public/voices/apple__us_1.mp3" type="audio/mpeg" />
+      您的浏览器不支持音频播放。
+    </audio>
+    <div id="wordcloud"></div>
+    <button id="start">start</button>
+
+    <script>
+      let spanEles = null
+      let wordIndex = 1
+      var duration
+      let words = []
+      initWord()
+      document.getElementById('start').addEventListener('click', () => {
+        audio.play()
+      })
+      const audio = document.getElementById('myAudio')
+      audio.addEventListener('ended', () => {
+        console.log('ended', wordIndex)
+        if (wordIndex * 2 >= words.length) return
+        audio.play()
+        const nextWords = document.querySelectorAll('.word' + wordIndex++)
+        nextWords.forEach((el) => {
+          el.classList.add('opacity-1')
+        })
+      })
+      // 当音频元数据加载完成后获取总时长
+      audio.addEventListener('canplay', () => {
+        duration = audio.duration // 获取总时长（秒）
+        console.log('duration :>> ', duration)
+        //audio.play()
+      })
+      function initWord(duration) {
+        // 初始词云数据
+        for (var i = 0; i < 20; i++) {
+          const newWord = ['apple', Math.random() * 10 + 2, i]
+          const cnWord = ['苹果', Math.random() * 4 + 2, i]
+          // 添加新词到词云数据
+          words.push(newWord)
+          words.push(cnWord)
+        }
+        // 配置词云
+        const options = {
+          list: words,
+          gridSize: 10,
+          weightFactor: 10,
+          //fontFamily: 'Times, serif',
+          color: 'random-light',
+          backgroundColor: '#f4f4f4',
+          //wait: duration,
+          rotationSteps: 2,
+          classes: (word, _, __, extraData) => {
+            return 'word' + extraData[0]
+          },
+        }
+        const wordcloudEle = document.getElementById('wordcloud')
+        wordcloudEle.addEventListener('wordcloudstart', () => {
+          console.log('wordcloud  :>> wordcloudstart')
+        })
+        wordcloudEle.addEventListener('wordcloudstop', () => {
+          //audio.pause()
+          console.log('wordcloud  :>> wordcloudstop')
+          spanEles = wordcloudEle.children
+        })
+        // 初始化词云
+        WordCloud(wordcloudEle, options)
+      }
+    </script>
+  </body>
+</html>
