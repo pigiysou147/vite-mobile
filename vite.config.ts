@@ -5,6 +5,7 @@ import Vue from '@vitejs/plugin-vue'
 import LinkAttributes from 'markdown-it-link-attributes'
 import Unocss from 'unocss/vite'
 import AutoImport from 'unplugin-auto-import/vite'
+import { VantResolver } from 'unplugin-vue-components/resolvers'
 import Components from 'unplugin-vue-components/vite'
 import VueMacros from 'unplugin-vue-macros/vite'
 import Markdown from 'unplugin-vue-markdown/vite'
@@ -59,8 +60,12 @@ export default defineConfig({
       dirs: [
         'src/composables',
         'src/stores',
+        'src/config',
+        'src/lib',
+        'src/util',
       ],
       vueTemplate: true,
+      resolvers: [VantResolver()],
     }),
 
     // https://github.com/antfu/unplugin-vue-components
@@ -70,6 +75,7 @@ export default defineConfig({
       // allow auto import and register components used in markdown
       include: [/\.vue$/, /\.vue\?vue/, /\.md$/],
       dts: 'src/components.d.ts',
+      resolvers: [VantResolver()],
     }),
 
     // https://github.com/antfu/unocss
@@ -162,4 +168,12 @@ export default defineConfig({
     // TODO: workaround until they support native ESM
     noExternal: ['workbox-window', /vue-i18n/],
   },
+  css: {
+    preprocessorOptions: {
+      less: {
+        javascriptEnabled: true,
+      },
+    },
+  },
+
 })

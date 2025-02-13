@@ -27,3 +27,9 @@ useHead({
 <template>
   <RouterView />
 </template>
+
+<style lang="less">
+* {
+  overflow-x: hidden;
+}
+</style>
