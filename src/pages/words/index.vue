@@ -2,7 +2,7 @@
 import { request } from '~/lib/request'
 
 removeStore('result')
-let wordTypeId
+let wordTypeId: string
 const router = useRouter()
 interface WordItem {
   word: string
@@ -73,7 +73,7 @@ function handleClickPaly(key: string) {
           </div>
         </template>
         <template #value>
-          <van-icon v-if="showSelect" style="font-size: 20px;" text-20 name="play-circle-o" @click="handleClickPaly('batchPaly')" />
+          <van-icon v-if="showSelect && checked.length" style="font-size: 20px;" text-20 name="play-circle-o" @click="handleClickPaly('batchPaly')" />
         </template>
       </van-cell>
     </div>

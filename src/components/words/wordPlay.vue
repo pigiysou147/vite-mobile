@@ -1,18 +1,23 @@
 <script setup>
 import WordCloud from 'wordcloud'
 
-const { word, pronunciation, meaning, cid } = defineProps(['word', 'pronunciation', 'meaning', 'cid'])
+const { word, pronunciation, meaning, cid, autoplay = true } = defineProps(['word', 'pronunciation', 'meaning', 'cid', 'autoplay'])
+const emit = defineEmits(['playEnd'])
+const isEnd = ref(false)
+const maxRepeat = 20
+const wordMeaning = Array.isArray(meaning) ? meaning[0] : meaning
 const color = ['#375606', '#88A610', '#423411', '#727411', '#73490F', '#A66B11']
 let wordIndex = 1
 const audioRef = ref(null)
 const wordContianerRef = ref(null)
 const words = [
   [word, 20, 0],
-  [meaning, 10, 0],
+  [wordMeaning, 10, 0],
 ]
+
 onMounted(() => {
-  initAudio()
   initWord()
+  initAudio()
 })
 onBeforeUnmount(() => {
   audioRef.value.removeEventListener('ended', audioEndedEvent)
@@ -22,13 +27,20 @@ function initAudio() {
   audioRef.value.addEventListener('ended', audioEndedEvent)
   audioRef.value.addEventListener('canplay', audioCanplayEvent)
 }
-function audioCanplayEvent() {
-  audioRef.value.play()
+function togglePlay() {
+  if (isEnd.value)
+    return
+  if (audioRef.value.paused) {
+    audioRef.value.play()
+  }
+  else {
+    audioRef.value.pause()
+  }
 }
 function audioEndedEvent() {
-  console.warn('ended', wordIndex)
   if (wordIndex * 2 >= words.length) {
-    this.$emit('playEnd')
+    isEnd.value = true
+    emit('playEnd')
     return
   }
   audioRef.value.play()
@@ -39,9 +51,9 @@ function audioEndedEvent() {
 }
 function initWord() {
   // 初始词云数据
-  for (let i = 1; i <= 20; i++) {
+  for (let i = 1; i <= maxRepeat; i++) {
     const newWord = [word, Math.random() * 10 + 2, i]
-    const cnWord = [meaning, Math.random() * 7 + 2, i]
+    const cnWord = [wordMeaning, Math.random() * 7 + 2, i]
     // 添加新词到词云数据
     words.push(newWord)
     words.push(cnWord)
@@ -71,11 +83,11 @@ function initWord() {
 </script>
 
 <template>
-  <div h-100vh flex flex-col>
+  <div h-100vh flex flex-col @click="togglePlay()">
     <div pt-4>
       <span font-bold>{{ word }}</span> <span>{{ pronunciation }}</span>
     </div>
-    <audio ref="audioRef" style="display: none" controls autoplay none>
+    <audio ref="audioRef" style="display: none" controls :autoplay="autoplay" none>
       <source :src="`/words/${cid}/voices/${word}.mp3`" type="audio/mpeg">
     </audio>
     <div ref="wordContianerRef" class="wordcloud" />
