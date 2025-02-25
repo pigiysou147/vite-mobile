@@ -21,11 +21,11 @@ onMounted(() => {
 })
 onBeforeUnmount(() => {
   audioRef.value.removeEventListener('ended', audioEndedEvent)
-  audioRef.value.removeEventListener('canplay', audioCanplayEvent)
+  // audioRef.value.removeEventListener('canplay', audioCanplayEvent)
 })
 function initAudio() {
   audioRef.value.addEventListener('ended', audioEndedEvent)
-  audioRef.value.addEventListener('canplay', audioCanplayEvent)
+  // audioRef.value.addEventListener('canplay', audioCanplayEvent)
 }
 function togglePlay() {
   if (isEnd.value)
@@ -88,7 +88,7 @@ function initWord() {
       <span font-bold>{{ word }}</span> <span>{{ pronunciation }}</span>
     </div>
     <audio ref="audioRef" style="display: none" controls :autoplay="autoplay" none>
-      <source :src="`/words/${cid}/voices/${word}.mp3`" type="audio/mpeg">
+      <source :src="`/words/${cid}/voices/${word}.wav`" type="audio/mpeg">
     </audio>
     <div ref="wordContianerRef" class="wordcloud" />
   </div>
