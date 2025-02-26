@@ -1,0 +1,143 @@
+[
+  {
+    "type": "diet_health",
+    "typeName": "饮食地点类",
+    "wordList": [
+      {
+        "word": "restaurant",
+        "pronunciation": "/ˈrestrɒnt/",
+        "meaning": ["餐馆，饭店"]
+      },
+      {
+        "word": "cafe",
+        "pronunciation": "/ˈkæfeɪ/",
+        "meaning": ["咖啡馆，小餐馆"]
+      },
+      {
+        "word": "cafeteria",
+        "pronunciation": "/ˌkæfəˈtɪəriə/",
+        "meaning": ["自助餐厅"]
+      },
+      {
+        "word": "canteen",
+        "pronunciation": "/kænˈtiːn/",
+        "meaning": ["食堂，小卖部"]
+      },
+      {
+        "word": "buffet",
+        "pronunciation": "/ˈbʊfeɪ/",
+        "meaning": ["自助餐；饮食柜台"]
+      }
+    ]
+  },
+  {
+    "typeName": "食物类",
+    "wordList": [
+      {
+        "word": "vegetable",
+        "pronunciation": "/ˈvedʒtəbl/",
+        "meaning": ["蔬菜"]
+      },
+      {
+        "word": "meat",
+        "pronunciation": "/miːt/",
+        "meaning": ["肉"]
+      },
+      {
+        "word": "fish",
+        "pronunciation": "/fɪʃ/",
+        "meaning": ["鱼；鱼肉"]
+      },
+      {
+        "word": "steak",
+        "pronunciation": "/steɪk/",
+        "meaning": ["牛排"]
+      },
+      {
+        "word": "pizza",
+        "pronunciation": "/ˈpiːtsə/",
+        "meaning": ["比萨饼"]
+      }
+    ]
+  },
+  {
+    "typeName": "饮料类",
+    "wordList": [
+      {
+        "word": "coffee",
+        "pronunciation": "/ˈkɒfi/",
+        "meaning": ["咖啡"]
+      },
+      {
+        "word": "tea",
+        "pronunciation": "/tiː/",
+        "meaning": ["茶"]
+      },
+      {
+        "word": "juice",
+        "pronunciation": "/dʒuːs/",
+        "meaning": ["果汁"]
+      }
+    ]
+  },
+  {
+    "typeName": "饮食相关物品类",
+    "wordList": [
+      {
+        "word": "utensil",
+        "pronunciation": "/juːˈtensl/",
+        "meaning": ["器具，用具"]
+      },
+      {
+        "word": "knife",
+        "pronunciation": "/naɪf/",
+        "meaning": ["小刀"]
+      }
+    ]
+  },
+  {
+    "typeName": "健康相关场所类",
+    "wordList": [
+      {
+        "word": "clinic",
+        "pronunciation": "/ˈklɪnɪk/",
+        "meaning": ["诊所"]
+      },
+      {
+        "word": "hospital",
+        "pronunciation": "/ˈhɒspɪtl/",
+        "meaning": ["医院"]
+      }
+    ]
+  },
+  {
+    "typeName": "疾病及症状类",
+    "wordList": [
+      {
+        "word": "disease",
+        "pronunciation": "/dɪˈziːz/",
+        "meaning": ["疾病"]
+      },
+      {
+        "word": "headache",
+        "pronunciation": "/ˈhedeɪk/",
+        "meaning": ["头痛"]
+      }
+    ]
+  },
+  {
+    "typeName": "医疗人员及治疗类",
+    "wordList": [
+      {
+        "word": "doctor",
+        "pronunciation": "/ˈdɒktə(r)/",
+        "meaning": ["医生"]
+      },
+      {
+        "word": "medicine",
+        "pronunciation": "/ˈmedsn/",
+        "meaning": ["药"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "type": "natural_geography",
+    "typeName": "天体与宇宙",
+    "wordList": [
+      {
+        "word": "galaxy",
+        "pronunciation": "/ˈɡæləksi/",
+        "meaning": ["星系"]
+      },
+      {
+        "word": "cosmos",
+        "pronunciation": "/ˈkɒzmɒs/",
+        "meaning": ["宇宙"]
+      },
+      {
+        "word": "universe",
+        "pronunciation": "/ˈjuːnɪvɜːs/",
+        "meaning": ["宇宙；万物；世界"]
+      },
+      {
+        "word": "interstellar",
+        "pronunciation": "/ˌɪntəˈstelə/",
+        "meaning": ["星际的"]
+      },
+      {
+        "word": "celestial",
+        "pronunciation": "/səˈlestiəl/",
+        "meaning": ["天上的"]
+      },
+      {
+        "word": "comet",
+        "pronunciation": "/ˈkɒmɪt/",
+        "meaning": ["彗星"]
+      },
+      {
+        "word": "meteorite",
+        "pronunciation": "/ˈmiːtiəraɪt/",
+        "meaning": ["陨石"]
+      },
+      {
+        "word": "crater",
+        "pronunciation": "/ˈkreɪtə/",
+        "meaning": ["（撞击或爆炸形成的）坑"]
+      },
+      {
+        "word": "nebula",
+        "pronunciation": "/ˈnebjələ/",
+        "meaning": ["星云"]
+      }
+    ]
+  },
+  {
+    "typeName": "科学与研究",
+    "wordList": [
+      {
+        "word": "astronomy",
+        "pronunciation": "/əˈstrɒnəmi/",
+        "meaning": ["天文学"]
+      },
+      {
+        "word": "astrology",
+        "pronunciation": "/əˈstrɒlədʒi/",
+        "meaning": ["占星术；占星学"]
+      },
+      {
+        "word": "spectrum",
+        "pronunciation": "/ˈspektrəm/",
+        "meaning": ["光谱；范围"]
+      },
+      {
+        "word": "frequency",
+        "pronunciation": "/ˈfriːkwənsi/",
+        "meaning": ["频率；发生次数"]
+      },
+      {
+        "word": "refraction",
+        "pronunciation": "/rɪˈfrækʃn/",
+        "meaning": ["折射"]
+      },
+      {
+        "word": "ultraviolet",
+        "pronunciation": "/ˌʌltrəˈvaɪələt/",
+        "meaning": ["紫外辐射；紫外线的"]
+      },
+      {
+        "word": "radioactive",
+        "pronunciation": "/ˌreɪdiəʊˈæktɪv/",
+        "meaning": ["放射性的"]
+      }
+    ]
+  },
+  {
+    "typeName": "航天工具与技术",
+    "wordList": [
+      {
+        "word": "spacecraft",
+        "pronunciation": "/ˈspeɪskrɑːft/",
+        "meaning": ["宇宙飞船"]
+      },
+      {
+        "word": "spaceship",
+        "pronunciation": "/ˈspeɪsʃɪp/",
+        "meaning": ["宇宙飞船"]
+      },
+      {
+        "word": "probe",
+        "pronunciation": "/prəʊb/",
+        "meaning": ["太空探测器；详尽调查"]
+      },
+      {
+        "word": "module",
+        "pronunciation": "/ˈmɒdjuːl/",
+        "meaning": ["模块"]
+      },
+      {
+        "word": "propulsion",
+        "pronunciation": "/prəˈpʌlʃn/",
+        "meaning": ["推进力"]
+      },
+      {
+        "word": "antenna",
+        "pronunciation": "/ænˈtenə/",
+        "meaning": ["天线"]
+      },
+      {
+        "word": "circuit",
+        "pronunciation": "/ˈsɜːkɪt/",
+        "meaning": ["线路；电路；巡回"]
+      }
+    ]
+  },
+  {
+    "typeName": "天文现象与概念",
+    "wordList": [
+      {
+        "word": "orbit",
+        "pronunciation": "/ˈɔːbɪt/",
+        "meaning": ["轨道"]
+      },
+      {
+        "word": "ecliptic",
+        "pronunciation": "/ɪˈklɪptɪk/",
+        "meaning": ["黄道"]
+      },
+      {
+        "word": "diameter",
+        "pronunciation": "/daɪˈæmɪtə/",
+        "meaning": ["直径"]
+      },
+      {
+        "word": "radius",
+        "pronunciation": "/ˈreɪdiəs/",
+        "meaning": ["半径"]
+      },
+      {
+        "word": "collision",
+        "pronunciation": "/kəˈlɪʒn/",
+        "meaning": ["碰撞事故；冲突"]
+      },
+      {
+        "word": "eclipse",
+        "pronunciation": "/ɪˈklɪps/",
+        "meaning": ["日食；月食"]
+      }
+    ]
+  },
+  {
+    "typeName": "物质与粒子",
+    "wordList": [
+      {
+        "word": "substance",
+        "pronunciation": "/ˈsʌbstəns/",
+        "meaning": ["物质；实质；要旨"]
+      },
+      {
+        "word": "composition",
+        "pronunciation": "/ˌkɒmpəˈzɪʃn/",
+        "meaning": ["成分；构成；作品；创作"]
+      },
+      {
+        "word": "compound",
+        "pronunciation": "/ˈkɒmpaʊnd/",
+        "meaning": ["混合物；化合物；复合的；组合的；混合"]
+      },
+      {
+        "word": "particle",
+        "pronunciation": "/ˈpɑːtɪkl/",
+        "meaning": ["颗粒；微粒；极小量"]
+      },
+      {
+        "word": "molecule",
+        "pronunciation": "/ˈmɒlɪkjuːl/",
+        "meaning": ["分子"]
+      },
+      {
+        "word": "atom",
+        "pronunciation": "/ˈætəm/",
+        "meaning": ["原子"]
+      },
+      {
+        "word": "ion",
+        "pronunciation": "/ˈaɪən/",
+        "meaning": ["离子"]
+      },
+      {
+        "word": "electron",
+        "pronunciation": "/ɪˈlektrɒn/",
+        "meaning": ["电子"]
+      }
+    ]
+  },
+  {
+    "typeName": "人员与观测",
+    "wordList": [
+      {
+        "word": "astronaut",
+        "pronunciation": "/ˈæstrənɔːt/",
+        "meaning": ["宇航员"]
+      },
+      {
+        "word": "observatory",
+        "pronunciation": "/əbˈzɜːvətri/",
+        "meaning": ["天文台"]
+      },
+      {
+        "word": "telescope",
+        "pronunciation": "/ˈtelɪskəʊp/",
+        "meaning": ["望远镜"]
+      },
+      {
+        "word": "spectacle",
+        "pronunciation": "/ˈspektəkl/",
+        "meaning": ["壮观的景象；奇观"]
+      }
+    ]
+  }
+]

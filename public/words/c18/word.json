@@ -1,0 +1,412 @@
+[
+  {
+    "typeName": "战争与冲突类",
+    "wordList": [
+      {
+        "word": "violence",
+        "pronunciation": "/ˈvaɪələns/",
+        "meaning": ["暴力"]
+      },
+      {
+        "word": "conflict",
+        "pronunciation": "/ˈkɒnflɪkt/",
+        "meaning": ["斗争，冲突"]
+      },
+      {
+        "word": "raid",
+        "pronunciation": "/reɪd/",
+        "meaning": ["突袭；突然搜查"]
+      },
+      {
+        "word": "enormity",
+        "pronunciation": "/ɪˈnɔːməti/",
+        "meaning": ["巨大；滔天大罪"]
+      },
+      {
+        "word": "campaign",
+        "pronunciation": "/kæmˈpeɪn/",
+        "meaning": ["战役；（社会、政治）运动"]
+      },
+      {
+        "word": "battle",
+        "pronunciation": "/ˈbætl/",
+        "meaning": ["战斗，战役"]
+      },
+      {
+        "word": "struggle",
+        "pronunciation": "/ˈstrʌɡl/",
+        "meaning": ["挣扎；奋斗"]
+      },
+      {
+        "word": "siege",
+        "pronunciation": "/siːdʒ/",
+        "meaning": ["包围，围攻"]
+      },
+      {
+        "word": "conspiracy",
+        "pronunciation": "/kənˈspɪrəsi/",
+        "meaning": ["阴谋；密谋；合谋"]
+      }
+    ]
+  },
+  {
+    "typeName": "武器与装备类",
+    "wordList": [
+      {
+        "word": "tank",
+        "pronunciation": "/tæŋk/",
+        "meaning": ["坦克；罐，槽，缸"]
+      },
+      {
+        "word": "cannon",
+        "pronunciation": "/ˈkænən/",
+        "meaning": ["大炮，加农炮"]
+      },
+      {
+        "word": "missile",
+        "pronunciation": "/ˈmɪsaɪl/",
+        "meaning": ["导弹；投掷物"]
+      },
+      {
+        "word": "weapon",
+        "pronunciation": "/ˈwepən/",
+        "meaning": ["武器；兵器；手段"]
+      },
+      {
+        "word": "pistol",
+        "pronunciation": "/ˈpɪstl/",
+        "meaning": ["手枪"]
+      },
+      {
+        "word": "rifle",
+        "pronunciation": "/ˈraɪfl/",
+        "meaning": ["步枪"]
+      },
+      {
+        "word": "bullet",
+        "pronunciation": "/ˈbʊlɪt/",
+        "meaning": ["子弹"]
+      },
+      {
+        "word": "blade",
+        "pronunciation": "/bleɪd/",
+        "meaning": ["刃；锋；（螺旋桨的）叶片"]
+      },
+      {
+        "word": "sword",
+        "pronunciation": "/sɔːd/",
+        "meaning": ["刀；剑"]
+      },
+      {
+        "word": "ax",
+        "pronunciation": "/æks/",
+        "meaning": ["斧头"]
+      },
+      {
+        "word": "hammer",
+        "pronunciation": "/ˈhæmə/",
+        "meaning": ["锤，榔头"]
+      },
+      {
+        "word": "bow",
+        "pronunciation": "/bəʊ/",
+        "meaning": ["弓；蝴蝶结"]
+      },
+      {
+        "word": "arrow",
+        "pronunciation": "/ˈærəʊ/",
+        "meaning": ["箭头，箭"]
+      },
+      {
+        "word": "spear",
+        "pronunciation": "/spɪə/",
+        "meaning": ["矛；标枪"]
+      },
+      {
+        "word": "helmet",
+        "pronunciation": "/ˈhelmɪt/",
+        "meaning": ["头盔"]
+      },
+      {
+        "word": "shield",
+        "pronunciation": "/ʃiːld/",
+        "meaning": ["盾；防护物"]
+      }
+    ]
+  },
+  {
+    "typeName": "军事行动类",
+    "wordList": [
+      {
+        "word": "bombard",
+        "pronunciation": "/bɒmˈbɑːd/",
+        "meaning": ["轰击，轰炸"]
+      },
+      {
+        "word": "bomb",
+        "pronunciation": "/bɒm/",
+        "meaning": ["炸弹；轰炸"]
+      },
+      {
+        "word": "blast",
+        "pronunciation": "/blɑːst/",
+        "meaning": ["爆炸"]
+      },
+      {
+        "word": "burst",
+        "pronunciation": "/bɜːst/",
+        "meaning": ["爆裂"]
+      },
+      {
+        "word": "deploy",
+        "pronunciation": "/dɪˈplɔɪ/",
+        "meaning": ["部署"]
+      },
+      {
+        "word": "hit",
+        "pronunciation": "/hɪt/",
+        "meaning": ["打，击，碰撞"]
+      },
+      {
+        "word": "beat",
+        "pronunciation": "/biːt/",
+        "meaning": ["打；打败"]
+      },
+      {
+        "word": "strike",
+        "pronunciation": "/straɪk/",
+        "meaning": ["打，击，突击"]
+      },
+      {
+        "word": "punch",
+        "pronunciation": "/pʌntʃ/",
+        "meaning": ["打孔机；重拳打击"]
+      },
+      {
+        "word": "chop",
+        "pronunciation": "/tʃɒp/",
+        "meaning": ["切碎；劈"]
+      },
+      {
+        "word": "stab",
+        "pronunciation": "/stæb/",
+        "meaning": ["刺；戳"]
+      },
+      {
+        "word": "seize",
+        "pronunciation": "/siːz/",
+        "meaning": ["抓住；夺取"]
+      },
+      {
+        "word": "pursue",
+        "pronunciation": "/pəˈsjuː/",
+        "meaning": ["追赶"]
+      },
+      {
+        "word": "surround",
+        "pronunciation": "/səˈraʊnd/",
+        "meaning": ["包围；环绕"]
+      },
+      {
+        "word": "enclose",
+        "pronunciation": "/ɪnˈkləʊz/",
+        "meaning": ["围住；包围"]
+      }
+    ]
+  },
+  {
+    "typeName": "军事相关现象类",
+    "wordList": [
+      {
+        "word": "explosion",
+        "pronunciation": "/ɪkˈspləʊʒn/",
+        "meaning": ["爆发；爆炸"]
+      },
+      {
+        "word": "flame",
+        "pronunciation": "/fleɪm/",
+        "meaning": ["火焰"]
+      },
+      {
+        "word": "flare",
+        "pronunciation": "/fleə/",
+        "meaning": ["（闪耀的）火光；闪光信号灯"]
+      },
+      {
+        "word": "glitter",
+        "pronunciation": "/ˈɡlɪtə/",
+        "meaning": ["闪烁"]
+      },
+      {
+        "word": "glow",
+        "pronunciation": "/ɡləʊ/",
+        "meaning": ["发出微弱稳定的光"]
+      },
+      {
+        "word": "spark",
+        "pronunciation": "/spɑːk/",
+        "meaning": ["火花，火星"]
+      },
+      {
+        "word": "twinkle",
+        "pronunciation": "/ˈtwɪŋkl/",
+        "meaning": ["闪烁，闪耀"]
+      }
+    ]
+  },
+  {
+    "typeName": "困境与危险类",
+    "wordList": [
+      {
+        "word": "dilemma",
+        "pronunciation": "/daɪˈlemə/",
+        "meaning": ["（进退两难的）困境"]
+      },
+      {
+        "word": "plight",
+        "pronunciation": "/plaɪt/",
+        "meaning": ["困境；誓约"]
+      },
+      {
+        "word": "pitfall",
+        "pronunciation": "/ˈpɪtfɔːl/",
+        "meaning": ["陷阱；危险；困难"]
+      },
+      {
+        "word": "destitute",
+        "pronunciation": "/ˈdestɪtjuːt/",
+        "meaning": ["赤贫的；一无所有的"]
+      },
+      {
+        "word": "famine",
+        "pronunciation": "/ˈfæmɪn/",
+        "meaning": ["饥荒"]
+      },
+      {
+        "word": "starve",
+        "pronunciation": "/stɑːv/",
+        "meaning": ["使挨饿；饿死"]
+      },
+      {
+        "word": "deprive",
+        "pronunciation": "/dɪˈpraɪv/",
+        "meaning": ["剥夺"]
+      }
+    ]
+  },
+  {
+    "typeName": "对抗与防御类",
+    "wordList": [
+      {
+        "word": "oppose",
+        "pronunciation": "/əˈpəʊz/",
+        "meaning": ["反对，抵制"]
+      },
+      {
+        "word": "counter",
+        "pronunciation": "/ˈkaʊntə/",
+        "meaning": ["抵消；反击；反驳"]
+      },
+      {
+        "word": "deter",
+        "pronunciation": "/dɪˈtɜː/",
+        "meaning": ["阻止；威慑住"]
+      },
+      {
+        "word": "deflect",
+        "pronunciation": "/dɪˈflekt/",
+        "meaning": ["（使）偏斜，（使）偏转；转移"]
+      },
+      {
+        "word": "equip",
+        "pronunciation": "/ɪˈkwɪp/",
+        "meaning": ["配备，装备"]
+      },
+      {
+        "word": "prepare",
+        "pronunciation": "/prɪˈpeə/",
+        "meaning": ["使预备好，为... 做准备"]
+      },
+      {
+        "word": "provide",
+        "pronunciation": "/prəˈvaɪd/",
+        "meaning": ["供给；提供"]
+      }
+    ]
+  },
+  {
+    "typeName": "侵犯与威胁类",
+    "wordList": [
+      {
+        "word": "threat",
+        "pronunciation": "/θret/",
+        "meaning": ["威胁；恐吓"]
+      },
+      {
+        "word": "offend",
+        "pronunciation": "/əˈfend/",
+        "meaning": ["冒犯；犯罪；违反"]
+      },
+      {
+        "word": "aggressive",
+        "pronunciation": "/əˈɡresɪv/",
+        "meaning": ["侵略的；好斗的"]
+      },
+      {
+        "word": "invade",
+        "pronunciation": "/ɪnˈveɪd/",
+        "meaning": ["入侵；侵略；侵扰"]
+      },
+      {
+        "word": "trespass",
+        "pronunciation": "/ˈtrespəs/",
+        "meaning": ["非法入侵"]
+      },
+      {
+        "word": "intrude",
+        "pronunciation": "/ɪnˈtruːd/",
+        "meaning": ["闯入，侵入，侵扰"]
+      },
+      {
+        "word": "violate",
+        "pronunciation": "/ˈvaɪəleɪt/",
+        "meaning": ["违反；违背；侵犯"]
+      },
+      {
+        "word": "attack",
+        "pronunciation": "/əˈtæk/",
+        "meaning": ["攻击；进攻"]
+      },
+      {
+        "word": "assault",
+        "pronunciation": "/əˈsɔːlt/",
+        "meaning": ["猛攻；袭击"]
+      },
+      {
+        "word": "challenge",
+        "pronunciation": "/ˈtʃælɪndʒ/",
+        "meaning": ["挑战"]
+      }
+    ]
+  },
+  {
+    "typeName": "停止与暂停类",
+    "wordList": [
+      {
+        "word": "pause",
+        "pronunciation": "/pɔːz/",
+        "meaning": ["暂停，停顿"]
+      },
+      {
+        "word": "halt",
+        "pronunciation": "/hɔːlt/",
+        "meaning": ["（使）停止"]
+      },
+      {
+        "word": "cease",
+        "pronunciation": "/siːs/",
+        "meaning": ["终止；停止"]
+      }
+    ]
+  }
+]

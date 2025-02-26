@@ -1,0 +1,192 @@
+[
+  {
+    "typeName": "时间点类",
+    "wordList": [
+      {
+        "word": "dawn",
+        "pronunciation": "/dɔːn/",
+        "meaning": ["黎明；开端；破晓"]
+      },
+      {
+        "word": "midday",
+        "pronunciation": "/ˌmɪdˈdeɪ/",
+        "meaning": ["正午，中午"]
+      },
+      {
+        "word": "noon",
+        "pronunciation": "/nuːn/",
+        "meaning": ["中午"]
+      },
+      {
+        "word": "midnight",
+        "pronunciation": "/ˈmɪdnaɪt/",
+        "meaning": ["午夜，子夜，半夜"]
+      },
+      {
+        "word": "o'clock",
+        "pronunciation": "/əˈklɒk/",
+        "meaning": ["…… 点钟"]
+      }
+    ]
+  },
+  {
+    "typeName": "时间段类",
+    "wordList": [
+      {
+        "word": "weekend",
+        "pronunciation": "/ˈwiːkend/",
+        "meaning": ["周末"]
+      },
+      {
+        "word": "weekday",
+        "pronunciation": "/ˈwiːkdeɪ/",
+        "meaning": ["工作日"]
+      },
+      {
+        "word": "holiday",
+        "pronunciation": "/ˈhɒlədeɪ/",
+        "meaning": ["假期"]
+      },
+      {
+        "word": "vacation",
+        "pronunciation": "/vəˈkeɪʃn/",
+        "meaning": ["度假"]
+      },
+      {
+        "word": "morning",
+        "pronunciation": "/ˈmɔːnɪŋ/",
+        "meaning": ["早晨"]
+      },
+      {
+        "word": "afternoon",
+        "pronunciation": "/ˌɑːftəˈnuːn/",
+        "meaning": ["下午"]
+      },
+      {
+        "word": "evening",
+        "pronunciation": "/ˈiːvnɪŋ/",
+        "meaning": ["晚上"]
+      },
+      {
+        "word": "night",
+        "pronunciation": "/naɪt/",
+        "meaning": ["夜晚"]
+      },
+      {
+        "word": "overnight",
+        "pronunciation": "/ˌəʊvəˈnaɪt/",
+        "meaning": ["在晚上；突然，一夜之间"]
+      }
+    ]
+  },
+  {
+    "typeName": "日期类",
+    "wordList": [
+      {
+        "word": "Monday",
+        "pronunciation": "/ˈmʌndeɪ/",
+        "meaning": ["星期一"]
+      },
+      {
+        "word": "Tuesday",
+        "pronunciation": "/ˈtjuːzdeɪ/",
+        "meaning": ["星期二"]
+      },
+      {
+        "word": "March",
+        "pronunciation": "/mɑːtʃ/",
+        "meaning": ["三月"]
+      },
+      {
+        "word": "April",
+        "pronunciation": "/ˈeɪprəl/",
+        "meaning": ["四月"]
+      },
+      {
+        "word": "15th",
+        "pronunciation": "/fɪfˈtiːnθ/",
+        "meaning": ["15 日"]
+      }
+    ]
+  },
+  {
+    "typeName": "时间单位类",
+    "wordList": [
+      {
+        "word": "hour",
+        "pronunciation": "/ˈaʊə/",
+        "meaning": ["小时"]
+      },
+      {
+        "word": "minute",
+        "pronunciation": "/ˈmɪnɪt/",
+        "meaning": ["分钟"]
+      },
+      {
+        "word": "day",
+        "pronunciation": "/deɪ/",
+        "meaning": ["天"]
+      },
+      {
+        "word": "week",
+        "pronunciation": "/wiːk/",
+        "meaning": ["周"]
+      },
+      {
+        "word": "month",
+        "pronunciation": "/mʌnθ/",
+        "meaning": ["月"]
+      },
+      {
+        "word": "year",
+        "pronunciation": "/jɪə/",
+        "meaning": ["年"]
+      },
+      {
+        "word": "decade",
+        "pronunciation": "/ˈdekeɪd/",
+        "meaning": ["十年"]
+      },
+      {
+        "word": "century",
+        "pronunciation": "/ˈsentʃəri/",
+        "meaning": ["世纪；百年"]
+      },
+      {
+        "word": "millennium",
+        "pronunciation": "/mɪˈleniəm/",
+        "meaning": ["一千年，千年期；千禧年"]
+      }
+    ]
+  },
+  {
+    "typeName": "时间相关表达类",
+    "wordList": [
+      {
+        "word": "early",
+        "pronunciation": "/ˈɜːli/",
+        "meaning": ["早"]
+      },
+      {
+        "word": "late",
+        "pronunciation": "/leɪt/",
+        "meaning": ["晚"]
+      },
+      {
+        "word": "half past",
+        "pronunciation": "/hɑːf pɑːst/",
+        "meaning": ["半点"]
+      },
+      {
+        "word": "quarter to",
+        "pronunciation": "/ˈkwɔːtə tuː/",
+        "meaning": ["差一刻"]
+      },
+      {
+        "word": "past",
+        "pronunciation": "/pɑːst/",
+        "meaning": ["过了"]
+      }
+    ]
+  }
+]

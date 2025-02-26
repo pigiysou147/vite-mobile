@@ -1,0 +1,233 @@
+[
+  {
+    "type": "political_system",
+    "typeName": "政治体制",
+    "wordList": [
+      {
+        "word": "republic",
+        "pronunciation": "/rɪˈpʌblɪk/",
+        "meaning": ["共和国"]
+      },
+      {
+        "word": "democracy",
+        "pronunciation": "/dɪˈmɒkrəsi/",
+        "meaning": ["民主；民主国家"]
+      },
+      {
+        "word": "autonomy",
+        "pronunciation": "/ɔːˈtɒnəmi/",
+        "meaning": ["自治；自主权"]
+      },
+      {
+        "word": "dictatorship",
+        "pronunciation": "/ˌdɪktəˈteɪʃɪp/",
+        "meaning": ["专政；独裁"]
+      },
+      {
+        "word": "totalitarian state",
+        "pronunciation": "/ˌtəʊtæləˈteəriən steɪt/",
+        "meaning": ["极权主义国家"]
+      },
+      {
+        "word": "regime",
+        "pronunciation": "/reɪˈʒiːm/",
+        "meaning": ["政权；政体"]
+      },
+      {
+        "word": "capitalist",
+        "pronunciation": "/ˈkæpɪtəlɪst/",
+        "meaning": ["资本主义者；资本主义的"]
+      },
+      {
+        "word": "communist",
+        "pronunciation": "/ˈkɒmjənɪst/",
+        "meaning": ["共产主义者；共产主义的"]
+      },
+      {
+        "word": "monarchy",
+        "pronunciation": "/ˈmɒnəki/",
+        "meaning": ["君主制；君主国"]
+      },
+      {
+        "word": "anarchy",
+        "pronunciation": "/ˈænəki/",
+        "meaning": ["无政府状态；混乱"]
+      },
+      {
+        "word": "constitutional government",
+        "pronunciation": "/ˌkɒnstɪˈtjuːʃənl ˈɡʌvənmənt/",
+        "meaning": ["宪政政府"]
+      },
+      {
+        "word": "coalition government",
+        "pronunciation": "/ˌkəʊəˈlɪʃn ˈɡʌvənmənt/",
+        "meaning": ["联合政府"]
+      }
+    ]
+  },
+  {
+    "typeName": "政府部门",
+    "wordList": [
+      {
+        "word": "executive branch",
+        "pronunciation": "/ɪɡˈzekjətɪv brɑːntʃ/",
+        "meaning": ["行政部门"]
+      },
+      {
+        "word": "legislative branch",
+        "pronunciation": "/ˈledʒɪslətɪv brɑːntʃ/",
+        "meaning": ["立法部门"]
+      },
+      {
+        "word": "judicial branch",
+        "pronunciation": "/dʒuːˈdɪʃl brɑːntʃ/",
+        "meaning": ["司法部门"]
+      },
+      {
+        "word": "Ministry of Foreign Affairs",
+        "pronunciation": "/ˈmɪnɪstri ɒv ˈfɒrən əˈfeəz/",
+        "meaning": ["外交部"]
+      },
+      {
+        "word": "Ministry of National Defence",
+        "pronunciation": "/ˈmɪnɪstri ɒv ˈnæʃnəl dɪˈfens/",
+        "meaning": ["国防部"]
+      },
+      {
+        "word": "Ministry of Education",
+        "pronunciation": "/ˈmɪnɪstri ɒv ˌedʒuˈkeɪʃn/",
+        "meaning": ["教育部"]
+      },
+      {
+        "word": "Ministry of Finance",
+        "pronunciation": "/ˈmɪnɪstri ɒv ˈfaɪnæns/",
+        "meaning": ["财政部"]
+      },
+      {
+        "word": "Ministry of Public Security",
+        "pronunciation": "/ˈmɪnɪstri ɒv ˈpʌblɪk sɪˈkjʊərəti/",
+        "meaning": ["公安部"]
+      }
+    ]
+  },
+  {
+    "typeName": "官员职务",
+    "wordList": [
+      {
+        "word": "politicians",
+        "pronunciation": "/ˌpɒləˈtɪʃnz/",
+        "meaning": ["政客"]
+      },
+      {
+        "word": "diplomats",
+        "pronunciation": "/ˈdɪpləmæts/",
+        "meaning": ["外交官"]
+      },
+      {
+        "word": "leader",
+        "pronunciation": "/ˈliːdə(r)/",
+        "meaning": ["领导人"]
+      },
+      {
+        "word": "governor",
+        "pronunciation": "/ˈɡʌvənə(r)/",
+        "meaning": ["州长；总督"]
+      },
+      {
+        "word": "mayor",
+        "pronunciation": "/meə(r)/",
+        "meaning": ["市长"]
+      }
+    ]
+  },
+  {
+    "typeName": "国家政策",
+    "wordList": [
+      {
+        "word": "policies",
+        "pronunciation": "/ˈpɒlɪsiz/",
+        "meaning": ["政策"]
+      },
+      {
+        "word": "budget",
+        "pronunciation": "/ˈbʌdʒɪt/",
+        "meaning": ["预算"]
+      },
+      {
+        "word": "taxes",
+        "pronunciation": "/ˈtæksɪz/",
+        "meaning": ["税收"]
+      },
+      {
+        "word": "defence spending",
+        "pronunciation": "/dɪˈfens ˈspendɪŋ/",
+        "meaning": ["国防开支"]
+      },
+      {
+        "word": "law",
+        "pronunciation": "/lɔː/",
+        "meaning": ["法律"]
+      }
+    ]
+  },
+  {
+    "typeName": "国际关系",
+    "wordList": [
+      {
+        "word": "diplomacy",
+        "pronunciation": "/dɪˈpləʊməsi/",
+        "meaning": ["外交；外交手段"]
+      },
+      {
+        "word": "treaty",
+        "pronunciation": "/ˈtriːti/",
+        "meaning": ["条约；协定"]
+      },
+      {
+        "word": "ally",
+        "pronunciation": "/ˈælaɪ/",
+        "meaning": ["盟友；同盟国"]
+      },
+      {
+        "word": "conflict",
+        "pronunciation": "/ˈkɒnflɪkt/",
+        "meaning": ["冲突；矛盾"]
+      },
+      {
+        "word": "cooperation",
+        "pronunciation": "/kəʊˌɒpəˈreɪʃn/",
+        "meaning": ["合作"]
+      }
+    ]
+  },
+  {
+    "typeName": "公民与社会",
+    "wordList": [
+      {
+        "word": "citizen",
+        "pronunciation": "/ˈsɪtɪzn/",
+        "meaning": ["公民"]
+      },
+      {
+        "word": "election",
+        "pronunciation": "/ɪˈlekʃn/",
+        "meaning": ["选举"]
+      },
+      {
+        "word": "liberty",
+        "pronunciation": "/ˈlɪbəti/",
+        "meaning": ["自由"]
+      },
+      {
+        "word": "rights",
+        "pronunciation": "/raɪts/",
+        "meaning": ["权利"]
+      },
+      {
+        "word": "demonstrations",
+        "pronunciation": "/ˌdemənˈstreɪʃnz/",
+        "meaning": ["示威游行"]
+      }
+    ]
+  }
+]

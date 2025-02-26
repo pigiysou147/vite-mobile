@@ -1,0 +1,203 @@
+[
+  {
+    "type": "economic_system",
+    "typeName": "经济体系与制度",
+    "wordList": [
+      {
+        "word": "economy",
+        "pronunciation": "/ɪˈkɒnəmi/",
+        "meaning": ["经济；经济情况"]
+      },
+      {
+        "word": "economic system",
+        "pronunciation": "/ˌiːkəˈnɒmɪk ˈsɪstəm/",
+        "meaning": ["经济体系"]
+      },
+      {
+        "word": "market economy",
+        "pronunciation": "/ˈmɑːkɪt ɪˈkɒnəmi/",
+        "meaning": ["市场经济"]
+      },
+      {
+        "word": "mixed economy",
+        "pronunciation": "/mɪkst ɪˈkɒnəmi/",
+        "meaning": ["混合经济"]
+      },
+      {
+        "word": "planned economy",
+        "pronunciation": "/plænd ɪˈkɒnəmi/",
+        "meaning": ["计划经济"]
+      }
+    ]
+  },
+  {
+    "typeName": "市场与贸易",
+    "wordList": [
+      {
+        "word": "market",
+        "pronunciation": "/ˈmɑːkɪt/",
+        "meaning": ["市场"]
+      },
+      {
+        "word": "supply",
+        "pronunciation": "/səˈplaɪ/",
+        "meaning": ["供应；供给"]
+      },
+      {
+        "word": "demand",
+        "pronunciation": "/dɪˈmɑːnd/",
+        "meaning": ["需求"]
+      },
+      {
+        "word": "trade",
+        "pronunciation": "/treɪd/",
+        "meaning": ["贸易；交易"]
+      },
+      {
+        "word": "import",
+        "pronunciation": "/ˈɪmpɔːt/",
+        "meaning": ["进口"]
+      },
+      {
+        "word": "export",
+        "pronunciation": "/ˈekspɔːt/",
+        "meaning": ["出口"]
+      },
+      {
+        "word": "tariff",
+        "pronunciation": "/ˈtærɪf/",
+        "meaning": ["关税"]
+      },
+      {
+        "word": "quota",
+        "pronunciation": "/ˈkwəʊtə/",
+        "meaning": ["配额"]
+      }
+    ]
+  },
+  {
+    "typeName": "金融与货币",
+    "wordList": [
+      {
+        "word": "finance",
+        "pronunciation": "/ˈfaɪnæns/",
+        "meaning": ["金融；财政"]
+      },
+      {
+        "word": "currency",
+        "pronunciation": "/ˈkʌrənsi/",
+        "meaning": ["货币"]
+      },
+      {
+        "word": "money",
+        "pronunciation": "/ˈmʌni/",
+        "meaning": ["钱；货币"]
+      },
+      {
+        "word": "bank",
+        "pronunciation": "/bæŋk/",
+        "meaning": ["银行"]
+      },
+      {
+        "word": "savings",
+        "pronunciation": "/ˈseɪvɪŋz/",
+        "meaning": ["储蓄"]
+      },
+      {
+        "word": "investment",
+        "pronunciation": "/ɪnˈvestmənt/",
+        "meaning": ["投资"]
+      }
+    ]
+  },
+  {
+    "typeName": "就业与劳动力",
+    "wordList": [
+      {
+        "word": "employment",
+        "pronunciation": "/ɪmˈplɔɪmənt/",
+        "meaning": ["就业；工作"]
+      },
+      {
+        "word": "unemployment",
+        "pronunciation": "/ˌʌnɪmˈplɔɪmənt/",
+        "meaning": ["失业"]
+      },
+      {
+        "word": "job",
+        "pronunciation": "/dʒɒb/",
+        "meaning": ["工作；职业"]
+      },
+      {
+        "word": "worker",
+        "pronunciation": "/ˈwɜːkə(r)/",
+        "meaning": ["工人；劳动者"]
+      },
+      {
+        "word": "wage",
+        "pronunciation": "/weɪdʒ/",
+        "meaning": ["工资；报酬"]
+      }
+    ]
+  },
+  {
+    "typeName": "经济发展与问题",
+    "wordList": [
+      {
+        "word": "economic growth",
+        "pronunciation": "/ˌiːkəˈnɒmɪk ɡrəʊθ/",
+        "meaning": ["经济增长"]
+      },
+      {
+        "word": "economic development",
+        "pronunciation": "/ˌiːkəˈnɒmɪk dɪˈveləpmənt/",
+        "meaning": ["经济发展"]
+      },
+      {
+        "word": "poverty",
+        "pronunciation": "/ˈpɒvəti/",
+        "meaning": ["贫困；贫穷"]
+      },
+      {
+        "word": "inequality",
+        "pronunciation": "/ˌɪnɪˈkwɒləti/",
+        "meaning": ["不平等；不均衡"]
+      },
+      {
+        "word": "inflation",
+        "pronunciation": "/ɪnˈfleɪʃn/",
+        "meaning": ["通货膨胀"]
+      }
+    ]
+  },
+  {
+    "typeName": "政府与政策",
+    "wordList": [
+      {
+        "word": "government",
+        "pronunciation": "/ˈɡʌvənmənt/",
+        "meaning": ["政府"]
+      },
+      {
+        "word": "policy",
+        "pronunciation": "/ˈpɒləsi/",
+        "meaning": ["政策；方针"]
+      },
+      {
+        "word": "fiscal policy",
+        "pronunciation": "/ˈfɪskl ˈpɒləsi/",
+        "meaning": ["财政政策"]
+      },
+      {
+        "word": "monetary policy",
+        "pronunciation": "/ˈmʌnɪtri ˈpɒləsi/",
+        "meaning": ["货币政策"]
+      },
+      {
+        "word": "tax",
+        "pronunciation": "/tæks/",
+        "meaning": ["税；税款"]
+      }
+    ]
+  }
+]

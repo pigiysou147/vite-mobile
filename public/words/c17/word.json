@@ -1,0 +1,328 @@
+[
+  {
+    "type": "legal_rules",
+    "typeName": "法律与规则类",
+    "wordList": [
+      {
+        "word": "law",
+        "pronunciation": "/lɔː/",
+        "meaning": ["法律；规律"]
+      },
+      {
+        "word": "legal",
+        "pronunciation": "/ˈliːɡəl/",
+        "meaning": ["法律的；合法的"]
+      },
+      {
+        "word": "rule",
+        "pronunciation": "/ruːl/",
+        "meaning": ["规则；统治"]
+      },
+      {
+        "word": "regulation",
+        "pronunciation": "/ˌreɡjʊˈleɪʃən/",
+        "meaning": ["规则；规定；管理"]
+      },
+      {
+        "word": "item",
+        "pronunciation": "/ˈaɪtəm/",
+        "meaning": ["条目"]
+      },
+      {
+        "word": "treaty",
+        "pronunciation": "/ˈtriːti/",
+        "meaning": ["条约；协议"]
+      },
+      {
+        "word": "agreement",
+        "pronunciation": "/əˈɡriːmənt/",
+        "meaning": ["同意；协定"]
+      },
+      {
+        "word": "charter",
+        "pronunciation": "/ˈtʃɑːtə/",
+        "meaning": ["宪章；租；包（船、车、飞机等）"]
+      },
+      {
+        "word": "protocol",
+        "pronunciation": "/ˈprəʊtəkɒl/",
+        "meaning": ["协定书；协议；礼仪"]
+      },
+      {
+        "word": "norm",
+        "pronunciation": "/nɔːm/",
+        "meaning": ["标准；行为准则；规范"]
+      }
+    ]
+  },
+  {
+    "typeName": "行为与执行类",
+    "wordList": [
+      {
+        "word": "permit",
+        "pronunciation": "/pəˈmɪt/",
+        "meaning": ["允许；准许"]
+      },
+      {
+        "word": "allow",
+        "pronunciation": "/əˈlaʊ/",
+        "meaning": ["允许；准许"]
+      },
+      {
+        "word": "admission",
+        "pronunciation": "/ədˈmɪʃən/",
+        "meaning": ["承认；入场费；准许入场"]
+      },
+      {
+        "word": "perform",
+        "pronunciation": "/pəˈfɔːm/",
+        "meaning": ["履行；执行"]
+      },
+      {
+        "word": "enforce",
+        "pronunciation": "/ɪnˈfɔːs/",
+        "meaning": ["强制执行；强行实施；迫使"]
+      },
+      {
+        "word": "default",
+        "pronunciation": "/ˈdɪfɔːlt/",
+        "meaning": ["不支付、不履行；违约；默认值"]
+      },
+      {
+        "word": "reject",
+        "pronunciation": "/rɪˈdʒekt/",
+        "meaning": ["拒绝接受；摒弃"]
+      },
+      {
+        "word": "constraint",
+        "pronunciation": "/kənˈstreɪnt/",
+        "meaning": ["约束；限制，克制"]
+      }
+    ]
+  },
+  {
+    "typeName": "机构与人员类",
+    "wordList": [
+      {
+        "word": "court",
+        "pronunciation": "/kɔːt/",
+        "meaning": ["法院；庭院"]
+      },
+      {
+        "word": "supreme",
+        "pronunciation": "/suːˈpriːm/",
+        "meaning": ["最高的；最大的"]
+      },
+      {
+        "word": "judge",
+        "pronunciation": "/dʒʌdʒ/",
+        "meaning": ["法官；裁判员"]
+      },
+      {
+        "word": "jury",
+        "pronunciation": "/ˈdʒʊəri/",
+        "meaning": ["陪审团；评判委员会"]
+      },
+      {
+        "word": "magistrate",
+        "pronunciation": "/ˈmædʒɪstreɪt/",
+        "meaning": ["地方法官；地方官员"]
+      },
+      {
+        "word": "lawyer",
+        "pronunciation": "/ˈlɔːjə/",
+        "meaning": ["律师"]
+      },
+      {
+        "word": "attorney",
+        "pronunciation": "/əˈtɜːni/",
+        "meaning": ["律师"]
+      },
+      {
+        "word": "barrister",
+        "pronunciation": "/ˈbærɪstə/",
+        "meaning": ["（英国）大律师"]
+      },
+      {
+        "word": "solicitor",
+        "pronunciation": "/səˈlɪsɪtə/",
+        "meaning": ["（英国）事务律师"]
+      },
+      {
+        "word": "detective",
+        "pronunciation": "/dɪˈtektɪv/",
+        "meaning": ["侦探"]
+      }
+    ]
+  },
+  {
+    "typeName": "犯罪与违法类",
+    "wordList": [
+      {
+        "word": "commit",
+        "pronunciation": "/kəˈmɪt/",
+        "meaning": ["犯（罪）；做（坏事）"]
+      },
+      {
+        "word": "sin",
+        "pronunciation": "/sɪn/",
+        "meaning": ["罪孽；犯戒律"]
+      },
+      {
+        "word": "crime",
+        "pronunciation": "/kraɪm/",
+        "meaning": ["罪行；犯罪活动"]
+      },
+      {
+        "word": "vice",
+        "pronunciation": "/vaɪs/",
+        "meaning": ["恶行；缺点"]
+      },
+      {
+        "word": "bribe",
+        "pronunciation": "/braɪb/",
+        "meaning": ["贿赂；向... 行贿"]
+      },
+      {
+        "word": "rob",
+        "pronunciation": "/rɒb/",
+        "meaning": ["抢劫；夺走"]
+      },
+      {
+        "word": "pirate",
+        "pronunciation": "/ˈpaɪrət/",
+        "meaning": ["海盗；盗版者；盗印，窃用"]
+      },
+      {
+        "word": "steal",
+        "pronunciation": "/stiːl/",
+        "meaning": ["偷，窃取；剽窃"]
+      },
+      {
+        "word": "thief",
+        "pronunciation": "/θiːf/",
+        "meaning": ["窃贼；偷窃犯"]
+      },
+      {
+        "word": "murder",
+        "pronunciation": "/ˈmɜːdə/",
+        "meaning": ["谋杀"]
+      }
+    ]
+  },
+  {
+    "typeName": "诉讼与审判类",
+    "wordList": [
+      {
+        "word": "sue",
+        "pronunciation": "/suː/",
+        "meaning": ["控告，提起诉讼；提出请求"]
+      },
+      {
+        "word": "prosecute",
+        "pronunciation": "/ˈprɒsɪkjuːt/",
+        "meaning": ["检举；起诉"]
+      },
+      {
+        "word": "condemn",
+        "pronunciation": "/kənˈdɛm/",
+        "meaning": ["谴责；指责"]
+      },
+      {
+        "word": "complain",
+        "pronunciation": "/kəmˈpleɪn/",
+        "meaning": ["抱怨；投诉"]
+      },
+      {
+        "word": "session",
+        "pronunciation": "/ˈsɛʃən/",
+        "meaning": ["会议；会期"]
+      },
+      {
+        "word": "mediate",
+        "pronunciation": "/ˈmiːdɪeɪt/",
+        "meaning": ["斡旋；调解"]
+      },
+      {
+        "word": "plea",
+        "pronunciation": "/pliː/",
+        "meaning": ["辩解理由；借口；请求"]
+      },
+      {
+        "word": "appeal",
+        "pronunciation": "/əˈpiːl/",
+        "meaning": ["呼吁；申述"]
+      },
+      {
+        "word": "trial",
+        "pronunciation": "/ˈtraɪəl/",
+        "meaning": ["试验；审判"]
+      },
+      {
+        "word": "sentence",
+        "pronunciation": "/ˈsɛntəns/",
+        "meaning": ["判决；宣判"]
+      }
+    ]
+  },
+  {
+    "typeName": "调查与证据类",
+    "wordList": [
+      {
+        "word": "investigate",
+        "pronunciation": "/ɪnˈvestɪɡeɪt/",
+        "meaning": ["调查"]
+      },
+      {
+        "word": "witness",
+        "pronunciation": "/ˈwɪtnɪs/",
+        "meaning": ["目击者；见证人；见证"]
+      },
+      {
+        "word": "evidence",
+        "pronunciation": "/ˈevɪdəns/",
+        "meaning": ["证据"]
+      },
+      {
+        "word": "proof",
+        "pronunciation": "/pruːf/",
+        "meaning": ["证据"]
+      }
+    ]
+  },
+  {
+    "typeName": "刑罚与矫正类",
+    "wordList": [
+      {
+        "word": "fine",
+        "pronunciation": "/faɪn/",
+        "meaning": ["罚款"]
+      },
+      {
+        "word": "imprisonment",
+        "pronunciation": "/ɪmˈprɪznmənt/",
+        "meaning": ["监禁，关押，拘禁"]
+      },
+      {
+        "word": "jail",
+        "pronunciation": "/dʒeɪl/",
+        "meaning": ["监狱；监禁"]
+      },
+      {
+        "word": "prison",
+        "pronunciation": "/ˈprɪzn/",
+        "meaning": ["监狱，监禁"]
+      },
+      {
+        "word": "probation",
+        "pronunciation": "/prəˈbeɪʃn/",
+        "meaning": ["缓刑"]
+      },
+      {
+        "word": "rehabilitate",
+        "pronunciation": "/ˌriːəˈbɪlɪteɪt/",
+        "meaning": ["改造，使康复，使恢复（名誉等）"]
+      }
+    ]
+  }
+]

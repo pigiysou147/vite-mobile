@@ -1,0 +1,405 @@
+[
+  {
+    "type": "natural_geography",
+    "typeName": "植物学概念",
+    "wordList": [
+      {
+        "word": "botany",
+        "pronunciation": "/'bɒt (ə) nɪ/",
+        "meaning": ["植物学"]
+      },
+      {
+        "word": "botanical",
+        "pronunciation": "/bə'tænɪk (ə) l/",
+        "meaning": ["植物的"]
+      },
+      {
+        "word": "botanist",
+        "pronunciation": "/'bɒt (ə)nɪst/",
+        "meaning": ["植物学家"]
+      },
+      {
+        "word": "ecology",
+        "pronunciation": "/iː'kɒlədʒi/",
+        "meaning": ["生态学"]
+      },
+      {
+        "word": "ecological",
+        "pronunciation": "/ˌiːkəˈlɒdʒɪk (ə) l/",
+        "meaning": ["生态学的"]
+      },
+      {
+        "word": "ecologist",
+        "pronunciation": "/iː'kɒlədʒɪst/",
+        "meaning": ["生态学家"]
+      },
+      {
+        "word": "ecosystem",
+        "pronunciation": "/'iːkəʊsɪstəm/",
+        "meaning": ["生态系统"]
+      },
+      {
+        "word": "horticulture",
+        "pronunciation": "/'hɔːtɪkʌltʃə(r)/",
+        "meaning": ["园艺学"]
+      },
+      {
+        "word": "genetics",
+        "pronunciation": "/dʒə'netɪks/",
+        "meaning": ["遗传学"]
+      }
+    ]
+  },
+  {
+    "typeName": "植物种类与形态",
+    "wordList": [
+      {
+        "word": "vegetation",
+        "pronunciation": "/ˌvedʒə'teɪʃ(ə) n/",
+        "meaning": ["植物"]
+      },
+      {
+        "word": "flora",
+        "pronunciation": "'/flɔːrə/",
+        "meaning": ["植物群"]
+      },
+      {
+        "word": "herb",
+        "pronunciation": "/hɜːb/",
+        "meaning": ["药草；香草"]
+      },
+      {
+        "word": "perennial",
+        "pronunciation": "/pə'reniəl/",
+        "meaning": ["多年生植物；长久的"]
+      },
+      {
+        "word": "alga",
+        "pronunciation": "'/ælɡə/",
+        "meaning": ["藻类"],
+        "note": "(复数 algae /'ældʒiː/)"
+      },
+      {
+        "word": "fungus",
+        "pronunciation": "'/fʌŋɡəs/",
+        "meaning": ["真菌"],
+        "note": "(复数 fungi /'fʌŋɡaɪ/ 或 funguses)"
+      },
+      {
+        "word": "vine",
+        "pronunciation": "/vaɪn/",
+        "meaning": ["葡萄藤"]
+      },
+      {
+        "word": "violet",
+        "pronunciation": "'/vaɪələt/",
+        "meaning": ["堇菜"]
+      },
+      {
+        "word": "tulip",
+        "pronunciation": "'/tjuːlɪp/",
+        "meaning": ["郁金香"]
+      },
+      {
+        "word": "mint",
+        "pronunciation": "/mɪnt/",
+        "meaning": ["薄荷"]
+      },
+      {
+        "word": "thorn",
+        "pronunciation": "/θɔːn/",
+        "meaning": ["荆棘"]
+      },
+      {
+        "word": "weed",
+        "pronunciation": "/wiːd/",
+        "meaning": ["野草"]
+      },
+      {
+        "word": "reed",
+        "pronunciation": "/riːd/",
+        "meaning": ["芦苇"]
+      },
+      {
+        "word": "hay",
+        "pronunciation": "/heɪ/",
+        "meaning": ["干草"]
+      },
+      {
+        "word": "straw",
+        "pronunciation": "/strɔː/",
+        "meaning": ["稻草；吸管"]
+      },
+      {
+        "word": "bush",
+        "pronunciation": "/bʊʃ/",
+        "meaning": ["灌木"]
+      }
+    ]
+  },
+  {
+    "typeName": "植物生理与过程",
+    "wordList": [
+      {
+        "word": "photosynthesis",
+        "pronunciation": "/ˌfəʊtəʊ'sɪnθəsɪs/",
+        "meaning": ["光合作用"]
+      },
+      {
+        "word": "respiration",
+        "pronunciation": "/ˌrespə'reɪʃ(ə) n/",
+        "meaning": ["呼吸"]
+      },
+      {
+        "word": "respire",
+        "pronunciation": "/rɪ'spaɪə(r)/",
+        "meaning": ["呼吸"]
+      },
+      {
+        "word": "nutrient",
+        "pronunciation": "'/njuːtriənt/",
+        "meaning": ["营养物"]
+      },
+      {
+        "word": "oxygen",
+        "pronunciation": "'/ɒksɪdʒən/",
+        "meaning": ["氧气"]
+      },
+      {
+        "word": "carbon",
+        "pronunciation": "'/kɑːb (ə) n/",
+        "meaning": ["碳"]
+      },
+      {
+        "word": "energy",
+        "pronunciation": "'/enədʒi/",
+        "meaning": ["能量"]
+      },
+      {
+        "word": "enzyme",
+        "pronunciation": "'/enzaɪm/",
+        "meaning": ["酶"]
+      },
+      {
+        "word": "catalyst",
+        "pronunciation": "'/kæt (ə) lɪst/",
+        "meaning": ["催化剂"]
+      },
+      {
+        "word": "release",
+        "pronunciation": "/rɪ'liːs/",
+        "meaning": ["释放"]
+      },
+      {
+        "word": "emission",
+        "pronunciation": "/ɪ'mɪʃ(ə) n/",
+        "meaning": ["排放"]
+      },
+      {
+        "word": "absorb",
+        "pronunciation": "/əb'zɔːb/",
+        "meaning": ["吸收"]
+      },
+      {
+        "word": "germinate",
+        "pronunciation": "'/dʒɜːmɪneɪt/",
+        "meaning": ["发芽；萌芽"]
+      },
+      {
+        "word": "ripen",
+        "pronunciation": "'/raɪp (ə) n/",
+        "meaning": ["成熟"]
+      },
+      {
+        "word": "wither",
+        "pronunciation": "'/wɪðə(r)/",
+        "meaning": ["枯萎"]
+      },
+      {
+        "word": "decay",
+        "pronunciation": "/dɪ'keɪ/",
+        "meaning": ["腐烂"]
+      },
+      {
+        "word": "decompose",
+        "pronunciation": "/ˌdiːkəm'pəʊz/",
+        "meaning": ["分解，腐烂"]
+      },
+      {
+        "word": "bloom",
+        "pronunciation": "/bluːm/",
+        "meaning": ["开花；花朵"]
+      },
+      {
+        "word": "blossom",
+        "pronunciation": "'/blɒsəm/",
+        "meaning": ["开花；花朵"]
+      },
+      {
+        "word": "bud",
+        "pronunciation": "/bʌd/",
+        "meaning": ["花蕾"]
+      },
+      {
+        "word": "pollen",
+        "pronunciation": "'/pɒlən/",
+        "meaning": ["花粉"]
+      }
+    ]
+  },
+  {
+    "typeName": "种植与培育",
+    "wordList": [
+      {
+        "word": "cultivate",
+        "pronunciation": "'/kʌltɪveɪt/",
+        "meaning": ["耕作；培养"]
+      },
+      {
+        "word": "sow",
+        "pronunciation": "/səʊ/",
+        "meaning": ["播种"]
+      },
+      {
+        "word": "reclaim",
+        "pronunciation": "/rɪ'kleɪm/",
+        "meaning": ["开垦；利用"]
+      },
+      {
+        "word": "harvest",
+        "pronunciation": "'/hɑːvɪst/",
+        "meaning": ["收割；收获"]
+      },
+      {
+        "word": "pluck",
+        "pronunciation": "/plʌk/",
+        "meaning": ["采，摘"]
+      },
+      {
+        "word": "pick",
+        "pronunciation": "/pɪk/",
+        "meaning": ["摘，拾"]
+      },
+      {
+        "word": "yield",
+        "pronunciation": "/jiːld/",
+        "meaning": ["出产；屈服"]
+      },
+      {
+        "word": "arable",
+        "pronunciation": "'/ærəb (ə) l/",
+        "meaning": ["适于耕种的"]
+      },
+      {
+        "word": "plough",
+        "pronunciation": "/plaʊ/",
+        "meaning": ["犁"]
+      },
+      {
+        "word": "spade",
+        "pronunciation": "/speɪd/",
+        "meaning": ["铲，锹"]
+      },
+      {
+        "word": "rake",
+        "pronunciation": "/reɪk/",
+        "meaning": ["耙子"]
+      }
+    ]
+  },
+  {
+    "typeName": "植物环境与相关概念",
+    "wordList": [
+      {
+        "word": "forestry",
+        "pronunciation": "'/fɒrɪstri/",
+        "meaning": ["林业；林学"]
+      },
+      {
+        "word": "timber",
+        "pronunciation": "'/tɪmbə(r)/",
+        "meaning": ["木材"]
+      },
+      {
+        "word": "log",
+        "pronunciation": "/lɒɡ/",
+        "meaning": ["圆木"]
+      },
+      {
+        "word": "charcoal",
+        "pronunciation": "'/tʃɑːkəʊl/",
+        "meaning": ["木炭"]
+      },
+      {
+        "word": "field",
+        "pronunciation": "/fiːld/",
+        "meaning": ["原野；野外"]
+      },
+      {
+        "word": "plantation",
+        "pronunciation": "/plæn'teɪʃ(ə) n/",
+        "meaning": ["种植园"]
+      },
+      {
+        "word": "meadow",
+        "pronunciation": "'/medəʊ/",
+        "meaning": ["草地，牧场"]
+      },
+      {
+        "word": "lawn",
+        "pronunciation": "/lɔːn/",
+        "meaning": ["草地，草坪"]
+      },
+      {
+        "word": "shade-tolerant",
+        "pronunciation": "/ʃeɪd ˈtɒlərənt/",
+        "meaning": ["耐阴的"]
+      },
+      {
+        "word": "sunlight",
+        "pronunciation": "'/sʌnlaɪt/",
+        "meaning": ["阳光"]
+      },
+      {
+        "word": "pattern",
+        "pronunciation": "'/pætn/",
+        "meaning": ["模式"]
+      },
+      {
+        "word": "outcome",
+        "pronunciation": "'/aʊtkʌm/",
+        "meaning": ["结果"]
+      },
+      {
+        "word": "impact",
+        "pronunciation": "'/ɪmpækt/",
+        "meaning": ["影响"]
+      },
+      {
+        "word": "diversity",
+        "pronunciation": "/daɪ'vɜːsəti/",
+        "meaning": ["多样性"]
+      },
+      {
+        "word": "hybridization",
+        "pronunciation": "/ˌhaɪbrɪdaɪ'zeɪʃ(ə) n/",
+        "meaning": ["杂交"]
+      },
+      {
+        "word": "mutation",
+        "pronunciation": "/mjuː'teɪʃ(ə) n/",
+        "meaning": ["突变"]
+      },
+      {
+        "word": "variation",
+        "pronunciation": "/ˌveəri'eɪʃ(ə) n/",
+        "meaning": ["变种"]
+      },
+      {
+        "word": "extinction",
+        "pronunciation": "/ɪk'stɪŋkʃ(ə) n/",
+        "meaning": ["灭绝"]
+      }
+    ]
+  }
+]

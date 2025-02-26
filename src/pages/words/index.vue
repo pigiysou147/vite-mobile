@@ -1,115 +1,46 @@
-<script setup lang="ts">
+<script setup>
 import { request } from '~/lib/request'
 
-removeStore('result')
-let wordTypeId: string
 const router = useRouter()
-interface WordItem {
-  word: string
-  pronunciation: string
-  meaning: string[]
-}
-
-interface Word {
-  type: string
-  typeName: string
-  wordList: WordItem[]
-}
-const checked = ref([])
-const showSelect = ref(false)
-const activeNames = ref(['1'])
-const wordList: Ref<Word[]> = ref([])
-request({ url: '/words/c1/word.json' }).then((result: Word[]) => {
-  setStore({ name: 'result', content: result })
-  wordList.value = result
-  wordTypeId = 'c1'
-  // const words = []
-  // result.forEach((wordsList) => {
-  //   wordsList.wordList.forEach((word) => {
-  //     words.push(word.word)
-  //   })
-  // })
-  // console.log('words :>> ', words.join('","'))
+const loading = ref(false)
+const finished = ref(false)
+const list = ref([])
+request({ url: '/words/chapter.json' }).then((result) => {
+  list.value = result
+  loading.value = false
+  finished.value = true
 }).catch((err) => {
   console.warn(err)
 })
-
-function handleClick(word: Word) {
+function handleClickCell(item) {
+  if (!item)
+    return
   router.push({
-    path: '/words/wordDetail',
+    path: '/words/chapter',
     query: {
-      ...word,
-      meaning: word.meaning[0],
-      cid: wordTypeId,
+      cid: item.id,
+      title: item.label,
     },
   })
-}
-function handleClickPaly(key: string) {
-  switch (key) {
-    case 'batchPaly':
-      console.warn('checked :>> ', checked.value)
-      setStore({ name: 'checked', content: checked.value })
-      router.push({
-        path: '/words/wordBatchPlay',
-        query: {
-          cid: wordTypeId,
-        },
-      })
-      break
-
-    default:
-      break
-  }
 }
 </script>
 
 <template>
-  <div>
-    <div class="top">
-      <van-cell>
-        <template #title>
-          <div text-left @click="showSelect = !showSelect">
-            {{ showSelect ? '取消' : "批量播放" }}
-          </div>
-        </template>
-        <template #value>
-          <van-icon v-if="showSelect && checked.length" style="font-size: 20px;" text-20 name="play-circle-o" @click="handleClickPaly('batchPaly')" />
-        </template>
-      </van-cell>
-    </div>
-    <van-checkbox-group v-model="checked">
-      <van-collapse v-model="activeNames">
-        <van-collapse-item v-for="(item, index) in wordList" :key="index" :title="item.typeName" :name="index">
-          <template #title>
-            <div>
-              <!-- <van-checkbox :name="word. word" @change="checkAllChange" />  -->
-              {{ item.typeName }}
-            </div>
-          </template>
-          <van-cell-group inset>
-            <van-cell v-for="(word, index) in item.wordList" :key="index" @click="handleClick(word)">
-              <template v-if="showSelect" #icon>
-                <van-checkbox :name="word. word" @click.stop="" />
-              </template>
-              <template #title>
-                {{ word. word }}
-              </template>
-              <template #value>
-                {{ word.meaning.join(',') }}
-              </template>
-              <template #label>
-                {{ word.pronunciation }}
-              </template>
-            </van-cell>
-          </van-cell-group>
-        </van-collapse-item>
-      </van-collapse>
-    </van-checkbox-group>
-  </div>
+  <van-list
+    v-model:loading="loading"
+    :finished="finished"
+    finished-text="没有更多了"
+    @load="onLoad"
+  >
+    <van-cell v-for="item in list" :key="item.id" :title="item.id + item.label" @click="handleClickCell(item)" />
+  </van-list>
 </template>
 
-<style scoped lang="less">
-  ::v-deep(.van-collapse-item__content) {
-  padding: 0;
-}
+<style lang="scss" scoped>
+
 </style>
+
+<route lang="yaml">
+  meta:
+    title: '单词列表'
+  </route>

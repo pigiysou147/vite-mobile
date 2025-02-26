@@ -1,0 +1,113 @@
+[
+  {
+    "type": "building_site",
+    "typeName": "建筑类型",
+    "wordList": [
+      {
+        "word": "skyscraper",
+        "pronunciation": "/ˈskaɪskreɪpə(r)/",
+        "meaning": ["摩天大楼"]
+      },
+      {
+        "word": "mansion",
+        "pronunciation": "/ˈmænʃn/",
+        "meaning": ["大厦"]
+      },
+      {
+        "word": "villa",
+        "pronunciation": "/ˈvɪlə/",
+        "meaning": ["别墅"]
+      },
+      {
+        "word": "bungalow",
+        "pronunciation": "/ˈbʌŋɡələʊ/",
+        "meaning": ["平房"]
+      },
+      {
+        "word": "block of flats",
+        "pronunciation": "/blɒk ɒv flæts/",
+        "meaning": ["公寓楼"]
+      },
+      {
+        "word": "terraced houses",
+        "pronunciation": "/ˈterəst ˈhaʊzɪz/",
+        "meaning": ["排房"]
+      }
+    ]
+  },
+  {
+    "typeName": "建筑结构与部件",
+    "wordList": [
+      {
+        "word": "balcony",
+        "pronunciation": "/ˈbælkəni/",
+        "meaning": ["阳台"]
+      },
+      {
+        "word": "chimney",
+        "pronunciation": "/ˈtʃɪmni/",
+        "meaning": ["烟囱"]
+      },
+      {
+        "word": "dome",
+        "pronunciation": "/dəʊm/",
+        "meaning": ["圆屋顶"]
+      },
+      {
+        "word": "skylight",
+        "pronunciation": "/ˈskaɪlaɪt/",
+        "meaning": ["天窗"]
+      },
+      {
+        "word": "window",
+        "pronunciation": "/ˈwɪndəʊ/",
+        "meaning": ["窗户"]
+      }
+    ]
+  },
+  {
+    "typeName": "场所相关",
+    "wordList": [
+      {
+        "word": "residential district",
+        "pronunciation": "/ˌrezɪˈdenʃl ˈdɪstrɪkt/",
+        "meaning": ["住宅区"]
+      },
+      {
+        "word": "city",
+        "pronunciation": "/ˈsɪti/",
+        "meaning": ["城市"]
+      },
+      {
+        "word": "park",
+        "pronunciation": "/pɑːk/",
+        "meaning": ["公园"]
+      },
+      {
+        "word": "museum",
+        "pronunciation": "/mjuˈziːəm/",
+        "meaning": ["博物馆"]
+      }
+    ]
+  },
+  {
+    "typeName": "建筑相关人员与事物",
+    "wordList": [
+      {
+        "word": "architect",
+        "pronunciation": "/ˈɑːkɪtekt/",
+        "meaning": ["建筑师"]
+      },
+      {
+        "word": "developer",
+        "pronunciation": "/dɪˈveləpə(r)/",
+        "meaning": ["开发商"]
+      },
+      {
+        "word": "monument",
+        "pronunciation": "/ˈmɒnjumənt/",
+        "meaning": ["古迹"]
+      }
+    ]
+  }
+]

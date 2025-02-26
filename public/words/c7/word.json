@@ -1,0 +1,63 @@
+[
+  {
+    "type": "cultural_history",
+    "typeName": "历史时期与文明",
+    "wordList": [
+      {
+        "word": "Bronze Age",
+        "pronunciation": "/brɒnz eɪdʒ/",
+        "meaning": ["青铜时代"]
+      },
+      {
+        "word": "Iron Age",
+        "pronunciation": "/aɪən eɪdʒ/",
+        "meaning": ["铁器时代"]
+      },
+      {
+        "word": "Ancient Rome",
+        "pronunciation": "/ˈæŋkəɪnt raʊm/",
+        "meaning": ["古罗马"]
+      },
+      {
+        "word": "Middle Ages",
+        "pronunciation": "/ˌmɪdl eɪdʒəs/",
+        "meaning": ["中世纪"]
+      }
+    ]
+  },
+  {
+    "typeName": "语言演化",
+    "wordList": [
+      {
+        "word": "phonetics",
+        "pronunciation": "/fəˈnetɪks/",
+        "meaning": ["语音学"]
+      },
+      {
+        "word": "grammar",
+        "pronunciation": "/ˈɡræmərə/",
+        "meaning": ["语法"]
+      },
+      {
+        "word": "etymology",
+        "pronunciation": "/ˌetɪˈmɒlədʒi/",
+        "meaning": ["词源学"]
+      }
+    ]
+  },
+  {
+    "typeName": "文字系统",
+    "wordList": [
+      {
+        "word": "hieroglyphs",
+        "pronunciation": "/haɪˈraʊɡlɪfs/",
+        "meaning": ["象形文字"]
+      },
+      {
+        "word": "cuneiform",
+        "pronunciation": "/ˈkuːnɪfɔːrm/",
+        "meaning": ["楔形文字"]
+      }
+    ]
+  }
+]

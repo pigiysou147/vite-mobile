@@ -1,0 +1,33 @@
+[
+  {
+    "typeName": "行为与执行类",
+    "wordList": [
+      {
+        "word": "permit",
+        "pronunciation": "/pəˈmɪt/",
+        "meaning": ["允许；准许"]
+      },
+      {
+        "word": "allow",
+        "pronunciation": "/əˈlaʊ/",
+        "meaning": ["允许；准许"]
+      }
+   ]
+  },
+  {
+    "typeName": "行为与执行类",
+        "wordList": [
+          {
+            "word": "permit",
+            "pronunciation": "/pəˈmɪt/",
+            "meaning": ["允许；准许"]
+          },
+          {
+            "word": "allow",
+            "pronunciation": "/əˈlaʊ/",
+            "meaning": ["允许；准许"]
+          }
+        ]
+  }
+
+]

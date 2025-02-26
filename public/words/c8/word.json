@@ -1,0 +1,113 @@
+[
+  {
+    "type": "language_evolution",
+    "typeName": "语言基础类",
+    "wordList": [
+      {
+        "word": "phonetics",
+        "pronunciation": "/fəˈnetɪks/",
+        "meaning": ["语音学"]
+      },
+      {
+        "word": "phoneme",
+        "pronunciation": "/ˈfəʊniːm/",
+        "meaning": ["音素"]
+      },
+      {
+        "word": "morpheme",
+        "pronunciation": "/ˈmɔːfiːm/",
+        "meaning": ["语素"]
+      },
+      {
+        "word": "syntax",
+        "pronunciation": "/ˈsɪntæks/",
+        "meaning": ["句法"]
+      },
+      {
+        "word": "grammar",
+        "pronunciation": "/ˈɡræmə(r)/",
+        "meaning": ["语法"]
+      }
+    ]
+  },
+  {
+    "typeName": "语言发展类",
+    "wordList": [
+      {
+        "word": "evolve",
+        "pronunciation": "/ɪˈvɒlv/",
+        "meaning": ["演变；进化"]
+      },
+      {
+        "word": "evolution",
+        "pronunciation": "/ˌiːvəˈluːʃn/",
+        "meaning": ["进化；发展"]
+      },
+      {
+        "word": "develop",
+        "pronunciation": "/dɪˈveləp/",
+        "meaning": ["发展；形成"]
+      }
+    ]
+  },
+  {
+    "typeName": "语言变化类",
+    "wordList": [
+      {
+        "word": "change",
+        "pronunciation": "/tʃeɪndʒ/",
+        "meaning": ["改变；变化"]
+      },
+      {
+        "word": "shift",
+        "pronunciation": "/ʃɪft/",
+        "meaning": ["转变；转移"]
+      }
+    ]
+  },
+  {
+    "typeName": "语言传播类",
+    "wordList": [
+      {
+        "word": "spread",
+        "pronunciation": "/spred/",
+        "meaning": ["传播；散布"]
+      },
+      {
+        "word": "diffusion",
+        "pronunciation": "/dɪˈfjuːʒn/",
+        "meaning": ["扩散；传播"]
+      }
+    ]
+  },
+  {
+    "typeName": "语言相关人员类",
+    "wordList": [
+      {
+        "word": "linguist",
+        "pronunciation": "/ˈlɪŋɡwɪst/",
+        "meaning": ["语言学家"]
+      },
+      {
+        "word": "lexicographer",
+        "pronunciation": "/ˌleksɪˈkɒɡrəfə(r)/",
+        "meaning": ["词典编纂者"]
+      }
+    ]
+  },
+  {
+    "typeName": "语言成果类",
+    "wordList": [
+      {
+        "word": "dictionary",
+        "pronunciation": "/ˈdɪkʃənri/",
+        "meaning": ["词典"]
+      },
+      {
+        "word": "encyclopedia",
+        "pronunciation": "/ɪnˌsaɪkləˈpiːdiə/",
+        "meaning": ["百科全书"]
+      }
+    ]
+  }
+]

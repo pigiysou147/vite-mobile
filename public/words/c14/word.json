@@ -1,0 +1,333 @@
+[
+  {
+    "type": "transport_travel",
+    "typeName": "交通工具",
+    "wordList": [
+      {
+        "word": "airplane",
+        "pronunciation": "/ˈeəpleɪn/",
+        "meaning": ["飞机"]
+      },
+      {
+        "word": "helicopter",
+        "pronunciation": "/ˈhelɪkɒptə(r)/",
+        "meaning": ["直升机"]
+      },
+      {
+        "word": "jet",
+        "pronunciation": "/dʒet/",
+        "meaning": ["喷气式飞机"]
+      },
+      {
+        "word": "tram",
+        "pronunciation": "/træm/",
+        "meaning": ["有轨电车"]
+      },
+      {
+        "word": "coach",
+        "pronunciation": "/kəʊtʃ/",
+        "meaning": ["长途汽车"]
+      },
+      {
+        "word": "ambulance",
+        "pronunciation": "/ˈæmbjʊləns/",
+        "meaning": ["救护车"]
+      },
+      {
+        "word": "truck",
+        "pronunciation": "/trʌk/",
+        "meaning": ["卡车"]
+      },
+      {
+        "word": "van",
+        "pronunciation": "/væn/",
+        "meaning": ["厢式货车"]
+      },
+      {
+        "word": "carriage",
+        "pronunciation": "/ˈkærɪdʒ/",
+        "meaning": ["四轮马车；（客运火车的）车厢"]
+      },
+      {
+        "word": "tractor",
+        "pronunciation": "/ˈtræktə(r)/",
+        "meaning": ["拖拉机"]
+      },
+      {
+        "word": "cart",
+        "pronunciation": "/kɑːt/",
+        "meaning": ["货运马车；手推车"]
+      },
+      {
+        "word": "pedicab",
+        "pronunciation": "/ˈpedɪkæb/",
+        "meaning": ["（人力）三轮车"]
+      },
+      {
+        "word": "cycle",
+        "pronunciation": "/ˈsaɪkl/",
+        "meaning": ["自行车"]
+      },
+      {
+        "word": "ferry",
+        "pronunciation": "/ˈferi/",
+        "meaning": ["渡船"]
+      },
+      {
+        "word": "liner",
+        "pronunciation": "/ˈlaɪnə(r)/",
+        "meaning": ["邮轮；客轮"]
+      },
+      {
+        "word": "vessel",
+        "pronunciation": "/ˈvesl/",
+        "meaning": ["大船；舰"]
+      }
+    ]
+  },
+  {
+    "typeName": "交通设施与标识",
+    "wordList": [
+      {
+        "word": "highway",
+        "pronunciation": "/ˈhaɪweɪ/",
+        "meaning": ["（尤美）公路"]
+      },
+      {
+        "word": "avenue",
+        "pronunciation": "/ˈævənjuː/",
+        "meaning": ["大街"]
+      },
+      {
+        "word": "curb",
+        "pronunciation": "/kɜːb/",
+        "meaning": ["路缘"]
+      },
+      {
+        "word": "signpost",
+        "pronunciation": "/ˈsaɪnpəʊst/",
+        "meaning": ["路标"]
+      },
+      {
+        "word": "pave",
+        "pronunciation": "/peɪv/",
+        "meaning": ["铺（路或地面）"]
+      },
+      {
+        "word": "intersection",
+        "pronunciation": "/ˌɪntəˈsekʃn/",
+        "meaning": ["十字路口"]
+      },
+      {
+        "word": "platform",
+        "pronunciation": "/ˈplætfɔːm/",
+        "meaning": ["站台"]
+      },
+      {
+        "word": "garage",
+        "pronunciation": "/ˈɡærɑːʒ/",
+        "meaning": ["汽车修理厂；车库"]
+      },
+      {
+        "word": "dock",
+        "pronunciation": "/dɒk/",
+        "meaning": ["码头；船坞"]
+      },
+      {
+        "word": "anchor",
+        "pronunciation": "/ˈæŋkə(r)/",
+        "meaning": ["锚"]
+      }
+    ]
+  },
+  {
+    "typeName": "旅行相关",
+    "wordList": [
+      {
+        "word": "travel",
+        "pronunciation": "/ˈtrævl/",
+        "meaning": ["旅行"]
+      },
+      {
+        "word": "journey",
+        "pronunciation": "/ˈdʒɜːni/",
+        "meaning": ["旅行；历程"]
+      },
+      {
+        "word": "voyage",
+        "pronunciation": "/ˈvɔɪɪdʒ/",
+        "meaning": ["航海，航行；旅行"]
+      },
+      {
+        "word": "safari",
+        "pronunciation": "/səˈfɑːri/",
+        "meaning": ["观兽旅行"]
+      },
+      {
+        "word": "parade",
+        "pronunciation": "/pəˈreɪd/",
+        "meaning": ["游行；庆祝游行"]
+      },
+      {
+        "word": "hiking",
+        "pronunciation": "/ˈhaɪkɪŋ/",
+        "meaning": ["徒步旅行"]
+      },
+      {
+        "word": "hitch-hike",
+        "pronunciation": "/ˈhɪtʃ haɪk/",
+        "meaning": ["搭便车旅行"]
+      },
+      {
+        "word": "resort",
+        "pronunciation": "/rɪˈzɔːt/",
+        "meaning": ["度假胜地"]
+      },
+      {
+        "word": "attraction",
+        "pronunciation": "/əˈtrækʃn/",
+        "meaning": ["具有吸引力的事物"]
+      },
+      {
+        "word": "memorial",
+        "pronunciation": "/mɪˈmɔːriəl/",
+        "meaning": ["纪念碑"]
+      },
+      {
+        "word": "pyramid",
+        "pronunciation": "/ˈpɪrəmɪd/",
+        "meaning": ["金字塔"]
+      },
+      {
+        "word": "visa",
+        "pronunciation": "/ˈviːzə/",
+        "meaning": ["签证"]
+      },
+      {
+        "word": "itinerary",
+        "pronunciation": "/aɪˈtɪnərəri/",
+        "meaning": ["行程"]
+      }
+    ]
+  },
+  {
+    "typeName": "人员与物品",
+    "wordList": [
+      {
+        "word": "passenger",
+        "pronunciation": "/ˈpæsɪndʒə(r)/",
+        "meaning": ["乘客"]
+      },
+      {
+        "word": "baggage",
+        "pronunciation": "/ˈbæɡɪdʒ/",
+        "meaning": ["（尤美）行李"]
+      },
+      {
+        "word": "luggage",
+        "pronunciation": "/ˈlʌɡɪdʒ/",
+        "meaning": ["行李"]
+      },
+      {
+        "word": "suitcase",
+        "pronunciation": "/ˈsuːtkeɪs/",
+        "meaning": ["手提箱"]
+      },
+      {
+        "word": "carry-on",
+        "pronunciation": "/ˈkæri ɒn/",
+        "meaning": ["（可随身携带上飞机的）小包"]
+      },
+      {
+        "word": "crew",
+        "pronunciation": "/kruː/",
+        "meaning": ["全体工作人员"]
+      },
+      {
+        "word": "captain",
+        "pronunciation": "/ˈkæptɪn/",
+        "meaning": ["船长；队长"]
+      },
+      {
+        "word": "steward",
+        "pronunciation": "/ˈstjuːəd/",
+        "meaning": ["男乘务员"]
+      }
+    ]
+  },
+  {
+    "typeName": "旅行动作与状态",
+    "wordList": [
+      {
+        "word": "navigate",
+        "pronunciation": "/ˈnævɪɡeɪt/",
+        "meaning": ["航行；横渡"]
+      },
+      {
+        "word": "check in",
+        "pronunciation": "/tʃek ɪn/",
+        "meaning": ["办理登记手续"]
+      },
+      {
+        "word": "book the ticket",
+        "pronunciation": "/bʊk ðə ˈtɪkɪt/",
+        "meaning": ["订票"]
+      },
+      {
+        "word": "take off",
+        "pronunciation": "/teɪk ɒf/",
+        "meaning": ["起飞"]
+      },
+      {
+        "word": "land",
+        "pronunciation": "/lænd/",
+        "meaning": ["降落"]
+      },
+      {
+        "word": "crash",
+        "pronunciation": "/kræʃ/",
+        "meaning": ["撞击"]
+      },
+      {
+        "word": "vanish",
+        "pronunciation": "/ˈvænɪʃ/",
+        "meaning": ["突然消失"]
+      },
+      {
+        "word": "disappear",
+        "pronunciation": "/ˌdɪsəˈpɪə(r)/",
+        "meaning": ["失踪；消失"]
+      }
+    ]
+  },
+  {
+    "typeName": "费用与票据",
+    "wordList": [
+      {
+        "word": "fare",
+        "pronunciation": "/feə(r)/",
+        "meaning": ["车费；路费"]
+      },
+      {
+        "word": "toll",
+        "pronunciation": "/təʊl/",
+        "meaning": ["通行费"]
+      },
+      {
+        "word": "ticket",
+        "pronunciation": "/ˈtɪkɪt/",
+        "meaning": ["票"]
+      },
+      {
+        "word": "boarding pass",
+        "pronunciation": "/ˈbɔːdɪŋ pɑːs/",
+        "meaning": ["登机牌"]
+      },
+      {
+        "word": "traveler's check",
+        "pronunciation": "/ˈtræv (ə) ləz tʃek/",
+        "meaning": ["旅行支票"]
+      }
+    ]
+  }
+]

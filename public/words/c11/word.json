@@ -1,0 +1,123 @@
+[
+  {
+    "type": "fashion_trend",
+    "typeName": "时尚风格类",
+    "wordList": [
+      {
+        "word": "trend",
+        "pronunciation": "/trend/",
+        "meaning": ["潮流；趋势"]
+      },
+      {
+        "word": "style",
+        "pronunciation": "/staɪl/",
+        "meaning": ["风格；款式"]
+      },
+      {
+        "word": "classic",
+        "pronunciation": "/ˈklæsɪk/",
+        "meaning": ["经典的；古典的"]
+      },
+      {
+        "word": "vintage",
+        "pronunciation": "/ˈvɪntɪdʒ/",
+        "meaning": ["古老的；复古的"]
+      },
+      {
+        "word": "modern",
+        "pronunciation": "/ˈmɒdn/",
+        "meaning": ["现代的；时髦的"]
+      },
+      {
+        "word": "fashion",
+        "pronunciation": "/ˈfæʃn/",
+        "meaning": ["时尚；时装"]
+      }
+    ]
+  },
+  {
+    "typeName": "服装类",
+    "wordList": [
+      {
+        "word": "dress",
+        "pronunciation": "/dres/",
+        "meaning": ["连衣裙；女装"]
+      },
+      {
+        "word": "shirt",
+        "pronunciation": "/ʃɜːt/",
+        "meaning": ["衬衫"]
+      },
+      {
+        "word": "jeans",
+        "pronunciation": "/dʒiːnz/",
+        "meaning": ["牛仔裤"]
+      },
+      {
+        "word": "skirt",
+        "pronunciation": "/skɜːt/",
+        "meaning": ["裙子"]
+      },
+      {
+        "word": "suit",
+        "pronunciation": "/suːt/",
+        "meaning": ["套装；西装"]
+      }
+    ]
+  },
+  {
+    "typeName": "配饰类",
+    "wordList": [
+      {
+        "word": "hat",
+        "pronunciation": "/hæt/",
+        "meaning": ["帽子"]
+      },
+      {
+        "word": "scarf",
+        "pronunciation": "/skɑːf/",
+        "meaning": ["围巾"]
+      },
+      {
+        "word": "gloves",
+        "pronunciation": "/ɡlʌvz/",
+        "meaning": ["手套"]
+      },
+      {
+        "word": "jewelry",
+        "pronunciation": "/ˈdʒuːəlri/",
+        "meaning": ["珠宝；首饰"]
+      }
+    ]
+  },
+  {
+    "typeName": "化妆美容类",
+    "wordList": [
+      {
+        "word": "makeup",
+        "pronunciation": "/ˈmeɪkʌp/",
+        "meaning": ["化妆品；化妆"]
+      },
+      {
+        "word": "lipstick",
+        "pronunciation": "/ˈlɪpstɪk/",
+        "meaning": ["口红"]
+      }
+    ]
+  },
+  {
+    "typeName": "发型类",
+    "wordList": [
+      {
+        "word": "hairstyle",
+        "pronunciation": "/ˈheəstaɪl/",
+        "meaning": ["发型"]
+      },
+      {
+        "word": "ponytail",
+        "pronunciation": "/ˈpəʊniteɪl/",
+        "meaning": ["马尾辫"]
+      }
+    ]
+  }
+]

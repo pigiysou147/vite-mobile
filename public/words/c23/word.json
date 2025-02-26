@@ -1,0 +1,327 @@
+[
+  {
+    "typeName": "数字类",
+    "wordList": [
+      {
+        "word": "one",
+        "pronunciation": "/wʌn/",
+        "meaning": ["一"]
+      },
+      {
+        "word": "two",
+        "pronunciation": "/tuː/",
+        "meaning": ["二"]
+      },
+      {
+        "word": "three",
+        "pronunciation": "/θriː/",
+        "meaning": ["三"]
+      },
+      {
+        "word": "four",
+        "pronunciation": "/fɔː/",
+        "meaning": ["四"]
+      },
+      {
+        "word": "five",
+        "pronunciation": "/faɪv/",
+        "meaning": ["五"]
+      },
+      {
+        "word": "six",
+        "pronunciation": "/sɪks/",
+        "meaning": ["六"]
+      },
+      {
+        "word": "seven",
+        "pronunciation": "/ˈsevn/",
+        "meaning": ["七"]
+      },
+      {
+        "word": "eight",
+        "pronunciation": "/eɪt/",
+        "meaning": ["八"]
+      },
+      {
+        "word": "nine",
+        "pronunciation": "/naɪn/",
+        "meaning": ["九"]
+      },
+      {
+        "word": "ten",
+        "pronunciation": "/ten/",
+        "meaning": ["十"]
+      },
+      {
+        "word": "eleven",
+        "pronunciation": "/ɪˈlevn/",
+        "meaning": ["十一"]
+      },
+      {
+        "word": "twelve",
+        "pronunciation": "/twelv/",
+        "meaning": ["十二"]
+      },
+      {
+        "word": "thirteen",
+        "pronunciation": "/ˌθɜːˈtiːn/",
+        "meaning": ["十三"]
+      },
+      {
+        "word": "twenty",
+        "pronunciation": "/ˈtwenti/",
+        "meaning": ["二十"]
+      },
+      {
+        "word": "thirty",
+        "pronunciation": "/ˈθɜːti/",
+        "meaning": ["三十"]
+      },
+      {
+        "word": "forty",
+        "pronunciation": "/ˈfɔːti/",
+        "meaning": ["四十"]
+      },
+      {
+        "word": "fifty",
+        "pronunciation": "/ˈfɪfti/",
+        "meaning": ["五十"]
+      },
+      {
+        "word": "sixty",
+        "pronunciation": "/ˈsɪksti/",
+        "meaning": ["六十"]
+      },
+      {
+        "word": "seventy",
+        "pronunciation": "/ˈsevnti/",
+        "meaning": ["七十"]
+      },
+      {
+        "word": "eighty",
+        "pronunciation": "/ˈeɪti/",
+        "meaning": ["八十"]
+      },
+      {
+        "word": "ninety",
+        "pronunciation": "/ˈnaɪnti/",
+        "meaning": ["九十"]
+      },
+      {
+        "word": "hundred",
+        "pronunciation": "/ˈhʌndrəd/",
+        "meaning": ["百"]
+      },
+      {
+        "word": "thousand",
+        "pronunciation": "/ˈθaʊzənd/",
+        "meaning": ["千"]
+      },
+      {
+        "word": "million",
+        "pronunciation": "/ˈmɪljən/",
+        "meaning": ["百万"]
+      },
+      {
+        "word": "billion",
+        "pronunciation": "/ˈbɪljən/",
+        "meaning": ["十亿"]
+      }
+    ]
+  },
+  {
+    "typeName": "序数类",
+    "wordList": [
+      {
+        "word": "first",
+        "pronunciation": "/fɜːst/",
+        "meaning": ["第一"]
+      },
+      {
+        "word": "second",
+        "pronunciation": "/ˈsekənd/",
+        "meaning": ["第二"]
+      },
+      {
+        "word": "third",
+        "pronunciation": "/θɜːd/",
+        "meaning": ["第三"]
+      },
+      {
+        "word": "fourth",
+        "pronunciation": "/fɔːθ/",
+        "meaning": ["第四"]
+      },
+      {
+        "word": "fifth",
+        "pronunciation": "/fɪfθ/",
+        "meaning": ["第五"]
+      },
+      {
+        "word": "sixth",
+        "pronunciation": "/sɪksθ/",
+        "meaning": ["第六"]
+      },
+      {
+        "word": "seventh",
+        "pronunciation": "/ˈsevnθ/",
+        "meaning": ["第七"]
+      },
+      {
+        "word": "eighth",
+        "pronunciation": "/eɪtθ/",
+        "meaning": ["第八"]
+      },
+      {
+        "word": "ninth",
+        "pronunciation": "/naɪnθ/",
+        "meaning": ["第九"]
+      },
+      {
+        "word": "tenth",
+        "pronunciation": "/tenθ/",
+        "meaning": ["第十"]
+      },
+      {
+        "word": "eleventh",
+        "pronunciation": "/ɪˈlevnθ/",
+        "meaning": ["第十一"]
+      },
+      {
+        "word": "twelfth",
+        "pronunciation": "/twelfθ/",
+        "meaning": ["第十二"]
+      },
+      {
+        "word": "thirteenth",
+        "pronunciation": "/ˌθɜːˈtiːnθ/",
+        "meaning": ["第十三"]
+      },
+      {
+        "word": "twentieth",
+        "pronunciation": "/ˈtwentiəθ/",
+        "meaning": ["第二十"]
+      },
+      {
+        "word": "thirtieth",
+        "pronunciation": "/ˈθɜːtiəθ/",
+        "meaning": ["第三十"]
+      },
+      {
+        "word": "hundredth",
+        "pronunciation": "/ˈhʌndrədθ/",
+        "meaning": ["第一百"]
+      },
+      {
+        "word": "thousandth",
+        "pronunciation": "/ˈθaʊzəndθ/",
+        "meaning": ["第一千"]
+      },
+      {
+        "word": "millionth",
+        "pronunciation": "/ˈmɪljənθ/",
+        "meaning": ["第一百万"]
+      }
+    ]
+  },
+  {
+    "typeName": "时间点类",
+    "wordList": [
+      {
+        "word": "midnight",
+        "pronunciation": "/ˈmɪdnaɪt/",
+        "meaning": ["午夜，子夜"]
+      },
+      {
+        "word": "noon",
+        "pronunciation": "/nuːn/",
+        "meaning": ["中午"]
+      },
+      {
+        "word": "dawn",
+        "pronunciation": "/dɔːn/",
+        "meaning": ["黎明；开端"]
+      },
+      {
+        "word": "dusk",
+        "pronunciation": "/dʌsk/",
+        "meaning": ["黄昏"]
+      },
+      {
+        "word": "o'clock",
+        "pronunciation": "/əˈklɒk/",
+        "meaning": ["…… 点钟"]
+      }
+    ]
+  },
+  {
+    "typeName": "分数类",
+    "wordList": [
+      {
+        "word": "half",
+        "pronunciation": "/hɑːf/",
+        "meaning": ["一半；二分之一"]
+      },
+      {
+        "word": "quarter",
+        "pronunciation": "/ˈkwɔːtə/",
+        "meaning": ["四分之一"]
+      },
+      {
+        "word": "one-third",
+        "pronunciation": "/wʌn θɜːd/",
+        "meaning": ["三分之一"]
+      },
+      {
+        "word": "two-thirds",
+        "pronunciation": "/tuː θɜːdz/",
+        "meaning": ["三分之二"]
+      },
+      {
+        "word": "one-fourth",
+        "pronunciation": "/wʌn fɔːθ/",
+        "meaning": ["四分之一"]
+      },
+      {
+        "word": "three-fourths",
+        "pronunciation": "/θriː fɔːθs/",
+        "meaning": ["四分之三"]
+      }
+    ]
+  },
+  {
+    "typeName": "小数类",
+    "wordList": [
+      {
+        "word": "point",
+        "pronunciation": "/pɔɪnt/",
+        "meaning": ["点（用于表示小数）"]
+      },
+      {
+        "word": "zero",
+        "pronunciation": "/ˈzɪərəʊ/",
+        "meaning": ["零"]
+      },
+      {
+        "word": "zero point one",
+        "pronunciation": "/ˈzɪərəʊ pɔɪnt wʌn/",
+        "meaning": ["零点一"]
+      },
+      {
+        "word": "zero point five",
+        "pronunciation": "/ˈzɪərəʊ pɔɪnt faɪv/",
+        "meaning": ["零点五"]
+      },
+      {
+        "word": "one point two",
+        "pronunciation": "/wʌn pɔɪnt tuː/",
+        "meaning": ["一点二"]
+      },
+      {
+        "word": "two point five",
+        "pronunciation": "/tuː pɔɪnt faɪv/",
+        "meaning": ["二点五"]
+      }
+    ]
+  }
+]

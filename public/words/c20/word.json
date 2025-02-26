@@ -1,0 +1,152 @@
+[
+  {
+    "typeName": "手部动作类",
+    "wordList": [
+      {
+        "word": "grasp",
+        "pronunciation": "/ɡrɑːsp/",
+        "meaning": ["抓住"]
+      },
+      {
+        "word": "hold",
+        "pronunciation": "/həʊld/",
+        "meaning": ["握住"]
+      },
+      {
+        "word": "wave",
+        "pronunciation": "/weɪv/",
+        "meaning": ["挥手"]
+      },
+      {
+        "word": "point",
+        "pronunciation": "/pɔɪnt/",
+        "meaning": ["指向"]
+      },
+      {
+        "word": "clap",
+        "pronunciation": "/klæp/",
+        "meaning": ["拍手"]
+      }
+    ]
+  },
+  {
+    "typeName": "腿部动作类",
+    "wordList": [
+      {
+        "word": "walk",
+        "pronunciation": "/wɔːk/",
+        "meaning": ["行走"]
+      },
+      {
+        "word": "run",
+        "pronunciation": "/rʌn/",
+        "meaning": ["跑步"]
+      },
+      {
+        "word": "jump",
+        "pronunciation": "/dʒʌmp/",
+        "meaning": ["跳跃"]
+      },
+      {
+        "word": "kick",
+        "pronunciation": "/kɪk/",
+        "meaning": ["踢"]
+      },
+      {
+        "word": "skip",
+        "pronunciation": "/skɪp/",
+        "meaning": ["跳绳；蹦跳着走"]
+      }
+    ]
+  },
+  {
+    "typeName": "眼部动作类",
+    "wordList": [
+      {
+        "word": "look",
+        "pronunciation": "/lʊk/",
+        "meaning": ["看"]
+      },
+      {
+        "word": "see",
+        "pronunciation": "/siː/",
+        "meaning": ["看见"]
+      },
+      {
+        "word": "watch",
+        "pronunciation": "/wɒtʃ/",
+        "meaning": ["观看"]
+      },
+      {
+        "word": "stare",
+        "pronunciation": "/steə/",
+        "meaning": ["盯着看"]
+      },
+      {
+        "word": "glance",
+        "pronunciation": "/ɡlɑːns/",
+        "meaning": ["瞥一眼"]
+      }
+    ]
+  },
+  {
+    "typeName": "口部动作类",
+    "wordList": [
+      {
+        "word": "speak",
+        "pronunciation": "/spiːk/",
+        "meaning": ["说话"]
+      },
+      {
+        "word": "talk",
+        "pronunciation": "/tɔːk/",
+        "meaning": ["交谈"]
+      },
+      {
+        "word": "eat",
+        "pronunciation": "/iːt/",
+        "meaning": ["吃"]
+      },
+      {
+        "word": "drink",
+        "pronunciation": "/drɪŋk/",
+        "meaning": ["喝"]
+      },
+      {
+        "word": "smile",
+        "pronunciation": "/smaɪl/",
+        "meaning": ["微笑"]
+      }
+    ]
+  },
+  {
+    "typeName": "身体综合动作类",
+    "wordList": [
+      {
+        "word": "stand",
+        "pronunciation": "/stænd/",
+        "meaning": ["站立"]
+      },
+      {
+        "word": "sit",
+        "pronunciation": "/sɪt/",
+        "meaning": ["坐下"]
+      },
+      {
+        "word": "lie down",
+        "pronunciation": "/laɪ daʊn/",
+        "meaning": ["躺下"]
+      },
+      {
+        "word": "turn",
+        "pronunciation": "/tɜːn/",
+        "meaning": ["转身"]
+      },
+      {
+        "word": "bend over",
+        "pronunciation": "/bend ˈəʊvə/",
+        "meaning": ["弯腰"]
+      }
+    ]
+  }
+]

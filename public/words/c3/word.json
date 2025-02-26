@@ -1,0 +1,318 @@
+[
+  {
+    "type": "natural_geography",
+    "typeName": "动物相关基础词汇",
+    "wordList": [
+      {
+        "word": "mammal",
+        "pronunciation": "/ˈmæml/",
+        "meaning": ["哺乳动物"]
+      },
+      {
+        "word": "primate",
+        "pronunciation": "/ˈpraɪmeɪt/",
+        "meaning": ["灵长动物"]
+      },
+      {
+        "word": "vertebrate",
+        "pronunciation": "/ˈvɜːtɪbrət/",
+        "meaning": ["脊椎动物"]
+      },
+      {
+        "word": "reptile",
+        "pronunciation": "/ˈreptaɪl/",
+        "meaning": ["爬行动物"]
+      },
+      {
+        "word": "amphibian",
+        "pronunciation": "/æmˈfɪbiən/",
+        "meaning": ["两栖动物"]
+      },
+      {
+        "word": "carnivore",
+        "pronunciation": "/ˈkɑːnɪvɔː/",
+        "meaning": ["肉食动物"]
+      },
+      {
+        "word": "herbivore",
+        "pronunciation": "/ˈhɜːbɪvɔː/",
+        "meaning": ["食草动物"]
+      },
+      {
+        "word": "creature",
+        "pronunciation": "/ˈkriːtʃə/",
+        "meaning": ["生物；动物"]
+      },
+      {
+        "word": "wildlife",
+        "pronunciation": "/ˈwaɪldlaɪf/",
+        "meaning": ["野生动物"]
+      },
+      {
+        "word": "fauna",
+        "pronunciation": "/ˈfɔːnə/",
+        "meaning": ["（尤指某一地区的）动物群"]
+      },
+      {
+        "word": "species",
+        "pronunciation": "/ˈspiːʃiːz/",
+        "meaning": ["物种"]
+      }
+    ]
+  },
+  {
+    "typeName": "动物行为与繁殖",
+    "wordList": [
+      {
+        "word": "mate",
+        "pronunciation": "/meɪt/",
+        "meaning": ["交配；配偶"]
+      },
+      {
+        "word": "breed",
+        "pronunciation": "/briːd/",
+        "meaning": ["饲养；繁殖；品种"]
+      },
+      {
+        "word": "interbreed",
+        "pronunciation": "/ˌɪntəˈbriːd/",
+        "meaning": ["（使）品种杂交"]
+      },
+      {
+        "word": "hybridize",
+        "pronunciation": "/ˈhaɪbrɪdaɪz/",
+        "meaning": ["（使）杂交"]
+      },
+      {
+        "word": "proliferate",
+        "pronunciation": "/prəˈlɪfəreɪt/",
+        "meaning": ["迅速增殖；剧增"]
+      },
+      {
+        "word": "lay",
+        "pronunciation": "/leɪ/",
+        "meaning": ["产（卵等）；放置"]
+      },
+      {
+        "word": "hatch",
+        "pronunciation": "/hætʃ/",
+        "meaning": ["孵化"]
+      },
+      {
+        "word": "brood",
+        "pronunciation": "/bruːd/",
+        "meaning": ["一窝幼鸟；孵（蛋）"]
+      },
+      {
+        "word": "spawn",
+        "pronunciation": "/spɔːn/",
+        "meaning": ["（鱼、蛙的）卵；产卵；引起"]
+      },
+      {
+        "word": "courtship",
+        "pronunciation": "/ˈkɔːtʃɪp/",
+        "meaning": ["求偶"]
+      }
+    ]
+  },
+  {
+    "typeName": "动物身体部位",
+    "wordList": [
+      {
+        "word": "skin",
+        "pronunciation": "/skɪn/",
+        "meaning": ["皮肤"]
+      },
+      {
+        "word": "claw",
+        "pronunciation": "/klɔː/",
+        "meaning": ["爪；钳；鳌；爪状物；抓；挠；撕"]
+      },
+      {
+        "word": "paw",
+        "pronunciation": "/pɔː/",
+        "meaning": ["（动物的）脚掌；爪子"]
+      },
+      {
+        "word": "beak",
+        "pronunciation": "/biːk/",
+        "meaning": ["鸟嘴；喙"]
+      },
+      {
+        "word": "fin",
+        "pronunciation": "/fɪn/",
+        "meaning": ["鳍"]
+      },
+      {
+        "word": "wing",
+        "pronunciation": "/wɪŋ/",
+        "meaning": ["翅膀"]
+      },
+      {
+        "word": "plume",
+        "pronunciation": "/pluːm/",
+        "meaning": ["羽毛"]
+      },
+      {
+        "word": "feather",
+        "pronunciation": "/ˈfeðə/",
+        "meaning": ["羽毛"]
+      },
+      {
+        "word": "fur",
+        "pronunciation": "/fɜː/",
+        "meaning": ["软毛；毛皮"]
+      },
+      {
+        "word": "bristle",
+        "pronunciation": "/ˈbrɪsl/",
+        "meaning": ["鬃毛；短而硬的毛，刚毛"]
+      },
+      {
+        "word": "trunk",
+        "pronunciation": "/trʌŋk/",
+        "meaning": ["象鼻；树干"]
+      },
+      {
+        "word": "ivory",
+        "pronunciation": "/ˈaɪvəri/",
+        "meaning": ["象牙"]
+      },
+      {
+        "word": "horn",
+        "pronunciation": "/hɔːn/",
+        "meaning": ["（牛羊等动物的）角；（乐器的）号"]
+      }
+    ]
+  },
+  {
+    "typeName": "保护相关词汇",
+    "wordList": [
+      {
+        "word": "conservation",
+        "pronunciation": "/ˌkɒnsəˈveɪʃən/",
+        "meaning": ["保护"]
+      },
+      {
+        "word": "protection",
+        "pronunciation": "/prəˈtekʃən/",
+        "meaning": ["保护"]
+      },
+      {
+        "word": "preservation",
+        "pronunciation": "/ˌprezəˈveɪʃən/",
+        "meaning": ["保护；保存"]
+      },
+      {
+        "word": "endangered",
+        "pronunciation": "/ɪnˈdeɪndʒəd/",
+        "meaning": ["濒临灭绝的"]
+      },
+      {
+        "word": "vulnerable",
+        "pronunciation": "/ˈvʌlnərəbəl/",
+        "meaning": ["易受伤害的"]
+      },
+      {
+        "word": "extinction",
+        "pronunciation": "/ɪkˈstɪŋkʃən/",
+        "meaning": ["灭绝"]
+      },
+      {
+        "word": "diversity",
+        "pronunciation": "/daɪˈvɜːsəti/",
+        "meaning": ["多样性"]
+      },
+      {
+        "word": "habitat",
+        "pronunciation": "/ˈhæbɪtæt/",
+        "meaning": ["栖息地"]
+      }
+    ]
+  },
+  {
+    "typeName": "研究与科学相关",
+    "wordList": [
+      {
+        "word": "biologist",
+        "pronunciation": "/baɪˈɒlədʒɪst/",
+        "meaning": ["生物学家"]
+      },
+      {
+        "word": "zoologist",
+        "pronunciation": "/zuːˈɒlədʒɪst/",
+        "meaning": ["动物学家"]
+      },
+      {
+        "word": "ecologist",
+        "pronunciation": "/ɪˈkɒlədʒɪst/",
+        "meaning": ["生态学家"]
+      },
+      {
+        "word": "genetic",
+        "pronunciation": "/dʒəˈnetɪk/",
+        "meaning": ["基因的"]
+      },
+      {
+        "word": "gene",
+        "pronunciation": "/dʒiːn/",
+        "meaning": ["基因"]
+      },
+      {
+        "word": "enzyme",
+        "pronunciation": "/ˈenzaɪm/",
+        "meaning": ["酶"]
+      },
+      {
+        "word": "protein",
+        "pronunciation": "/ˈprəʊtiːn/",
+        "meaning": ["蛋白质"]
+      },
+      {
+        "word": "evolution",
+        "pronunciation": "/ˌiːvəˈluːʃən/",
+        "meaning": ["进化"]
+      }
+    ]
+  },
+  {
+    "typeName": "其他相关词汇",
+    "wordList": [
+      {
+        "word": "cruel",
+        "pronunciation": "/ˈkruːəl/",
+        "meaning": ["残忍的；残暴的"]
+      },
+      {
+        "word": "prey",
+        "pronunciation": "/preɪ/",
+        "meaning": ["猎物"]
+      },
+      {
+        "word": "predator",
+        "pronunciation": "/ˈpredətə/",
+        "meaning": ["捕食者"]
+      },
+      {
+        "word": "dormant",
+        "pronunciation": "/ˈdɔːmənt/",
+        "meaning": ["冬眠的"]
+      },
+      {
+        "word": "aggressive",
+        "pronunciation": "/əˈɡresɪv/",
+        "meaning": ["有攻击性的"]
+      },
+      {
+        "word": "behavioral",
+        "pronunciation": "/bɪˈheɪvjərəl/",
+        "meaning": ["行为的"]
+      },
+      {
+        "word": "instinct",
+        "pronunciation": "/ˈɪnstɪŋkt/",
+        "meaning": ["本能；直觉"]
+      }
+    ]
+  }
+]

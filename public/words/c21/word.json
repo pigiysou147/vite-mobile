@@ -1,0 +1,207 @@
+[
+  {
+    "typeName": "生理健康类",
+    "wordList": [
+      {
+        "word": "disease",
+        "pronunciation": "/dɪˈziːz/",
+        "meaning": ["疾病"]
+      },
+      {
+        "word": "illness",
+        "pronunciation": "/ˈɪlnəs/",
+        "meaning": ["病；疾病"]
+      },
+      {
+        "word": "symptom",
+        "pronunciation": "/ˈsɪmptəm/",
+        "meaning": ["症状"]
+      },
+      {
+        "word": "pain",
+        "pronunciation": "/peɪn/",
+        "meaning": ["疼痛"]
+      },
+      {
+        "word": "fever",
+        "pronunciation": "/ˈfiːvə/",
+        "meaning": ["发烧"]
+      },
+      {
+        "word": "injury",
+        "pronunciation": "/ˈɪndʒəri/",
+        "meaning": ["伤害；损伤"]
+      },
+      {
+        "word": "therapy",
+        "pronunciation": "/ˈθerəpi/",
+        "meaning": ["治疗"]
+      },
+      {
+        "word": "medicine",
+        "pronunciation": "/ˈmedsn/",
+        "meaning": ["药；医学"]
+      },
+      {
+        "word": "doctor",
+        "pronunciation": "/ˈdɒktə/",
+        "meaning": ["医生"]
+      },
+      {
+        "word": "nurse",
+        "pronunciation": "/nɜːs/",
+        "meaning": ["护士"]
+      },
+      {
+        "word": "hospital",
+        "pronunciation": "/ˈhɒspɪtl/",
+        "meaning": ["医院"]
+      },
+      {
+        "word": "surgery",
+        "pronunciation": "/ˈsɜːdʒəri/",
+        "meaning": ["外科手术"]
+      },
+      {
+        "word": "recovery",
+        "pronunciation": "/rɪˈkʌvəri/",
+        "meaning": ["恢复；康复"]
+      },
+      {
+        "word": "fitness",
+        "pronunciation": "/ˈfɪtnəs/",
+        "meaning": ["健康；健壮"]
+      },
+      {
+        "word": "exercise",
+        "pronunciation": "/ˈeksəsaɪz/",
+        "meaning": ["锻炼；运动"]
+      }
+    ]
+  },
+  {
+    "typeName": "心理健康类",
+    "wordList": [
+      {
+        "word": "stress",
+        "pronunciation": "/stres/",
+        "meaning": ["压力"]
+      },
+      {
+        "word": "anxiety",
+        "pronunciation": "/æŋˈzaɪəti/",
+        "meaning": ["焦虑"]
+      },
+      {
+        "word": "depression",
+        "pronunciation": "/dɪˈpreʃn/",
+        "meaning": ["抑郁；沮丧"]
+      },
+      {
+        "word": "happiness",
+        "pronunciation": "/ˈhæpinəs/",
+        "meaning": ["幸福；快乐"]
+      },
+      {
+        "word": "anger",
+        "pronunciation": "/ˈæŋɡə/",
+        "meaning": ["愤怒"]
+      },
+      {
+        "word": "frustration",
+        "pronunciation": "/frʌˈstreɪʃn/",
+        "meaning": ["挫败感"]
+      },
+      {
+        "word": "loneliness",
+        "pronunciation": "/ˈləʊnlinəs/",
+        "meaning": ["孤独"]
+      },
+      {
+        "word": "confidence",
+        "pronunciation": "/ˈkɒnfɪdəns/",
+        "meaning": ["自信"]
+      },
+      {
+        "word": "relaxation",
+        "pronunciation": "/ˌriːlækˈseɪʃn/",
+        "meaning": ["放松"]
+      },
+      {
+        "word": "mood",
+        "pronunciation": "/muːd/",
+        "meaning": ["情绪"]
+      }
+    ]
+  },
+  {
+    "typeName": "生活习惯与方式类",
+    "wordList": [
+      {
+        "word": "diet",
+        "pronunciation": "/ˈdaɪət/",
+        "meaning": ["饮食"]
+      },
+      {
+        "word": "habit",
+        "pronunciation": "/ˈhæbɪt/",
+        "meaning": ["习惯"]
+      },
+      {
+        "word": "addiction",
+        "pronunciation": "/əˈdɪkʃn/",
+        "meaning": ["上瘾；成瘾"]
+      },
+      {
+        "word": "sleep",
+        "pronunciation": "/sliːp/",
+        "meaning": ["睡眠"]
+      },
+      {
+        "word": "rest",
+        "pronunciation": "/rest/",
+        "meaning": ["休息"]
+      },
+      {
+        "word": "leisure",
+        "pronunciation": "/ˈleʒə/",
+        "meaning": ["闲暇；休闲"]
+      }
+    ]
+  },
+  {
+    "typeName": "健康相关概念类",
+    "wordList": [
+      {
+        "word": "health",
+        "pronunciation": "/helθ/",
+        "meaning": ["健康"]
+      },
+      {
+        "word": "well-being",
+        "pronunciation": "/wel ˈbiːɪŋ/",
+        "meaning": ["幸福；健康"]
+      },
+      {
+        "word": "hygiene",
+        "pronunciation": "/ˈhaɪdʒiːn/",
+        "meaning": ["卫生"]
+      },
+      {
+        "word": "nutrition",
+        "pronunciation": "/njuːˈtrɪʃn/",
+        "meaning": ["营养"]
+      },
+      {
+        "word": "vitamin",
+        "pronunciation": "/ˈvɪtəmɪn/",
+        "meaning": ["维生素"]
+      },
+      {
+        "word": "mineral",
+        "pronunciation": "/ˈmɪnərəl/",
+        "meaning": ["矿物质"]
+      }
+    ]
+  }
+]

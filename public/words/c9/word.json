@@ -1,0 +1,138 @@
+[
+  {
+    "type": "entertainment_sports",
+    "typeName": "娱乐活动类",
+    "wordList": [
+      {
+        "word": "entertainment",
+        "pronunciation": "/ˌentəˈteɪnmənt/",
+        "meaning": ["娱乐；消遣"]
+      },
+      {
+        "word": "recreation",
+        "pronunciation": "/ˌrekriˈeɪʃən/",
+        "meaning": ["休闲；娱乐"]
+      },
+      {
+        "word": "amusement",
+        "pronunciation": "/əˈmjuːzmənt/",
+        "meaning": ["娱乐；消遣；乐趣"]
+      },
+      {
+        "word": "pastime",
+        "pronunciation": "/ˈpɑːstaɪm/",
+        "meaning": ["娱乐；消遣"]
+      },
+      {
+        "word": "festival",
+        "pronunciation": "/ˈfestɪvəl/",
+        "meaning": ["节日"]
+      },
+      {
+        "word": "magic",
+        "pronunciation": "/ˈmædʒɪk/",
+        "meaning": ["魔术；魔法"]
+      },
+      {
+        "word": "drama",
+        "pronunciation": "/ˈdrɑːmə/",
+        "meaning": ["戏；剧；戏剧艺术"]
+      }
+    ]
+  },
+  {
+    "typeName": "运动项目类",
+    "wordList": [
+      {
+        "word": "badminton",
+        "pronunciation": "/ˈbædmɪntən/",
+        "meaning": ["羽毛球"]
+      },
+      {
+        "word": "soccer",
+        "pronunciation": "/ˈsɒkə(r)/",
+        "meaning": ["足球"]
+      },
+      {
+        "word": "tennis",
+        "pronunciation": "/ˈtenɪs/",
+        "meaning": ["网球"]
+      },
+      {
+        "word": "golf",
+        "pronunciation": "/ɡɒlf/",
+        "meaning": ["高尔夫球"]
+      },
+      {
+        "word": "yoga",
+        "pronunciation": "/ˈjəʊɡə/",
+        "meaning": ["瑜伽"]
+      }
+    ]
+  },
+  {
+    "typeName": "运动场所类",
+    "wordList": [
+      {
+        "word": "stadium",
+        "pronunciation": "/ˈsteɪdiəm/",
+        "meaning": ["体育场"]
+      },
+      {
+        "word": "gym",
+        "pronunciation": "/dʒɪm/",
+        "meaning": ["体育馆"]
+      },
+      {
+        "word": "swimming pool",
+        "pronunciation": "/ˈswɪmɪŋ puːl/",
+        "meaning": ["游泳池"]
+      }
+    ]
+  },
+  {
+    "typeName": "运动人员类",
+    "wordList": [
+      {
+        "word": "athlete",
+        "pronunciation": "/ˈæθliːt/",
+        "meaning": ["运动员"]
+      },
+      {
+        "word": "coach",
+        "pronunciation": "/kəʊtʃ/",
+        "meaning": ["教练"]
+      }
+    ]
+  },
+  {
+    "typeName": "运动设备类",
+    "wordList": [
+      {
+        "word": "racket",
+        "pronunciation": "/ˈrækɪt/",
+        "meaning": ["球拍"]
+      },
+      {
+        "word": "ball",
+        "pronunciation": "/bɔːl/",
+        "meaning": ["球"]
+      }
+    ]
+  },
+  {
+    "typeName": "媒体相关类",
+    "wordList": [
+      {
+        "word": "medium",
+        "pronunciation": "/ˈmiːdiəm/",
+        "meaning": ["媒介；中间的；中等的"]
+      },
+      {
+        "word": "journalist",
+        "pronunciation": "/ˈdʒɜːnəlɪst/",
+        "meaning": ["记者；新闻工作者"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "type": "technology_invention",
+    "typeName": "技术与创新",
+    "wordList": [
+      {
+        "word": "technology",
+        "pronunciation": "/tekˈnɒlədʒi/",
+        "meaning": ["技术"]
+      },
+      {
+        "word": "technique",
+        "pronunciation": "/tekˈniːk/",
+        "meaning": ["技巧；技术"]
+      },
+      {
+        "word": "innovation",
+        "pronunciation": "/ˌɪnəˈveɪʃn/",
+        "meaning": ["创新"]
+      },
+      {
+        "word": "breakthrough",
+        "pronunciation": "/ˈbreɪkθruː/",
+        "meaning": ["突破"]
+      }
+    ]
+  },
+  {
+    "typeName": "发明与创造",
+    "wordList": [
+      {
+        "word": "invent",
+        "pronunciation": "/ɪnˈvent/",
+        "meaning": ["发明，创造"]
+      },
+      {
+        "word": "devise",
+        "pronunciation": "/dɪˈvaɪz/",
+        "meaning": ["设计；发明"]
+      },
+      {
+        "word": "patent",
+        "pronunciation": "/ˈpætnt/",
+        "meaning": ["专利；专利权"]
+      },
+      {
+        "word": "discover",
+        "pronunciation": "/dɪˈskʌvə(r)/",
+        "meaning": ["发现"]
+      }
+    ]
+  },
+  {
+    "typeName": "设备与工具",
+    "wordList": [
+      {
+        "word": "device",
+        "pronunciation": "/dɪˈvaɪs/",
+        "meaning": ["装置；设备"]
+      },
+      {
+        "word": "appliance",
+        "pronunciation": "/əˈplaɪəns/",
+        "meaning": ["（家用）器具"]
+      },
+      {
+        "word": "equipment",
+        "pronunciation": "/ɪˈkwɪpmənt/",
+        "meaning": ["设备"]
+      },
+      {
+        "word": "instrument",
+        "pronunciation": "/ˈɪnstrəmənt/",
+        "meaning": ["仪器；工具"]
+      },
+      {
+        "word": "tool",
+        "pronunciation": "/tuːl/",
+        "meaning": ["工具"]
+      },
+      {
+        "word": "gauge",
+        "pronunciation": "/ɡeɪdʒ/",
+        "meaning": ["测量仪器"]
+      }
+    ]
+  },
+  {
+    "typeName": "科学领域",
+    "wordList": [
+      {
+        "word": "optics",
+        "pronunciation": "/ˈɒptɪks/",
+        "meaning": ["光学"]
+      },
+      {
+        "word": "electronics",
+        "pronunciation": "/ɪˌlekˈtrɒnɪks/",
+        "meaning": ["电子学"]
+      },
+      {
+        "word": "biotechnology",
+        "pronunciation": "/ˌbaɪəʊtekˈnɒlədʒi/",
+        "meaning": ["生物技术"]
+      },
+      {
+        "word": "nanotechnology",
+        "pronunciation": "/ˌnænəʊtekˈnɒlədʒi/",
+        "meaning": ["纳米技术"]
+      },
+      {
+        "word": "quantum computing",
+        "pronunciation": "/ˈkwɒntəm kəmˈpjuːtɪŋ/",
+        "meaning": ["量子计算"]
+      }
+    ]
+  },
+  {
+    "typeName": "电子与通信",
+    "wordList": [
+      {
+        "word": "multimedia",
+        "pronunciation": "/ˌmʌltiˈmiːdiə/",
+        "meaning": ["多媒体"]
+      },
+      {
+        "word": "network",
+        "pronunciation": "/ˈnetwɜːk/",
+        "meaning": ["网络"]
+      },
+      {
+        "word": "browser",
+        "pronunciation": "/ˈbraʊzə(r)/",
+        "meaning": ["浏览器"]
+      },
+      {
+        "word": "laptop",
+        "pronunciation": "/ˈlæptɒp/",
+        "meaning": ["笔记本电脑"]
+      },
+      {
+        "word": "software",
+        "pronunciation": "/ˈsɒftweə(r)/",
+        "meaning": ["软件"]
+      }
+    ]
+  },
+  {
+    "typeName": "相关人员",
+    "wordList": [
+      {
+        "word": "engineer",
+        "pronunciation": "/ˌendʒɪˈnɪə(r)/",
+        "meaning": ["工程师"]
+      },
+      {
+        "word": "technician",
+        "pronunciation": "/tekˈnɪʃn/",
+        "meaning": ["技术员"]
+      },
+      {
+        "word": "inventor",
+        "pronunciation": "/ɪnˈventə(r)/",
+        "meaning": ["发明家"]
+      }
+    ]
+  },
+  {
+    "typeName": "其他",
+    "wordList": [
+      {
+        "word": "versatile",
+        "pronunciation": "/ˈvɜːsətaɪl/",
+        "meaning": ["多功能的；多用途的"]
+      },
+      {
+        "word": "algorithm",
+        "pronunciation": "/ˈælɡərɪðəm/",
+        "meaning": ["算法"]
+      },
+      {
+        "word": "cryptography",
+        "pronunciation": "/krɪpˈtɒɡrəfi/",
+        "meaning": ["密码学"]
+      },
+      {
+        "word": "autonomous",
+        "pronunciation": "/ɔːˈtɒnəməs/",
+        "meaning": ["自动的；自主的"]
+      }
+    ]
+  }
+]

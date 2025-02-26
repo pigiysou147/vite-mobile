@@ -1,0 +1,158 @@
+[
+  {
+    "type": "items_materials",
+    "typeName": "金属类",
+    "wordList": [
+      {
+        "word": "iron",
+        "pronunciation": "/ˈaɪən/",
+        "meaning": ["铁；熨斗"]
+      },
+      {
+        "word": "copper",
+        "pronunciation": "/ˈkɒpə(r)/",
+        "meaning": ["铜"]
+      },
+      {
+        "word": "aluminum",
+        "pronunciation": "/ˌæljəˈmɪniəm/",
+        "meaning": ["铝"]
+      },
+      {
+        "word": "steel",
+        "pronunciation": "/stiːl/",
+        "meaning": ["钢"]
+      },
+      {
+        "word": "gold",
+        "pronunciation": "/ɡəʊld/",
+        "meaning": ["金；金色"]
+      },
+      {
+        "word": "silver",
+        "pronunciation": "/ˈsɪlvə(r)/",
+        "meaning": ["银；银色"]
+      }
+    ]
+  },
+  {
+    "typeName": "塑料类",
+    "wordList": [
+      {
+        "word": "plastic",
+        "pronunciation": "/ˈplæstɪk/",
+        "meaning": ["塑料；塑料的"]
+      },
+      {
+        "word": "nylon",
+        "pronunciation": "/ˈnaɪlɒn/",
+        "meaning": ["尼龙"]
+      },
+      {
+        "word": "polyester",
+        "pronunciation": "/ˌpɒliˈestə(r)/",
+        "meaning": ["聚酯纤维"]
+      }
+    ]
+  },
+  {
+    "typeName": "木材类",
+    "wordList": [
+      {
+        "word": "wood",
+        "pronunciation": "/wʊd/",
+        "meaning": ["木材；木头"]
+      },
+      {
+        "word": "bamboo",
+        "pronunciation": "/ˌbæmˈbuː/",
+        "meaning": ["竹子"]
+      },
+      {
+        "word": "oak",
+        "pronunciation": "/əʊk/",
+        "meaning": ["橡木"]
+      },
+      {
+        "word": "pine",
+        "pronunciation": "/paɪn/",
+        "meaning": ["松木"]
+      },
+      {
+        "word": "maple",
+        "pronunciation": "/ˈmeɪpl/",
+        "meaning": ["枫木"]
+      }
+    ]
+  },
+  {
+    "typeName": "布料类",
+    "wordList": [
+      {
+        "word": "cloth",
+        "pronunciation": "/klɒθ/",
+        "meaning": ["布；织物"]
+      },
+      {
+        "word": "cotton",
+        "pronunciation": "/ˈkɒtn/",
+        "meaning": ["棉花；棉布"]
+      },
+      {
+        "word": "wool",
+        "pronunciation": "/wʊl/",
+        "meaning": ["羊毛；毛线"]
+      },
+      {
+        "word": "silk",
+        "pronunciation": "/sɪlk/",
+        "meaning": ["丝绸"]
+      },
+      {
+        "word": "linen",
+        "pronunciation": "/ˈlɪnɪn/",
+        "meaning": ["亚麻布"]
+      }
+    ]
+  },
+  {
+    "typeName": "玻璃类",
+    "wordList": [
+      {
+        "word": "glass",
+        "pronunciation": "/ɡlɑːs/",
+        "meaning": ["玻璃；玻璃杯"]
+      },
+      {
+        "word": "mirror",
+        "pronunciation": "/ˈmɪrə(r)/",
+        "meaning": ["镜子（玻璃制品）"]
+      },
+      {
+        "word": "lens",
+        "pronunciation": "/lenz/",
+        "meaning": ["透镜；镜片（玻璃材质）"]
+      }
+    ]
+  },
+  {
+    "typeName": "石材类",
+    "wordList": [
+      {
+        "word": "stone",
+        "pronunciation": "/stəʊn/",
+        "meaning": ["石头；石材"]
+      },
+      {
+        "word": "marble",
+        "pronunciation": "/ˈmɑːbl/",
+        "meaning": ["大理石"]
+      },
+      {
+        "word": "granite",
+        "pronunciation": "/ˈɡrænɪt/",
+        "meaning": ["花岗岩"]
+      }
+    ]
+  }
+]

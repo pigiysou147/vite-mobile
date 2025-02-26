@@ -1,0 +1,347 @@
+[
+  {
+    "typeName": "职业类",
+    "wordList": [
+      {
+        "word": "accountant",
+        "pronunciation": "/əˈkaʊntənt/",
+        "meaning": ["会计"]
+      },
+      {
+        "word": "actor",
+        "pronunciation": "/ˈæktə/",
+        "meaning": ["男演员"]
+      },
+      {
+        "word": "actress",
+        "pronunciation": "/ˈæktrəs/",
+        "meaning": ["女演员"]
+      },
+      {
+        "word": "architect",
+        "pronunciation": "/ˈɑːkɪtekt/",
+        "meaning": ["建筑师"]
+      },
+      {
+        "word": "artist",
+        "pronunciation": "/ˈɑːtɪst/",
+        "meaning": ["艺术家"]
+      },
+      {
+        "word": "associate professor",
+        "pronunciation": "/əˈsəʊsieɪt prəˈfesə/",
+        "meaning": ["副教授"]
+      },
+      {
+        "word": "astronaut",
+        "pronunciation": "/ˈæstrənɔːt/",
+        "meaning": ["宇航员"]
+      },
+      {
+        "word": "auditor",
+        "pronunciation": "/ˈɔːdɪtə/",
+        "meaning": ["审计员"]
+      },
+      {
+        "word": "baker",
+        "pronunciation": "/ˈbeɪkə/",
+        "meaning": ["烘焙师"]
+      },
+      {
+        "word": "barber",
+        "pronunciation": "/ˈbɑːbə/",
+        "meaning": ["理发师（男）"]
+      },
+      {
+        "word": "boxer",
+        "pronunciation": "/ˈbɒksə/",
+        "meaning": ["拳击手"]
+      },
+      {
+        "word": "chef",
+        "pronunciation": "/ʃef/",
+        "meaning": ["厨师"]
+      },
+      {
+        "word": "chemist",
+        "pronunciation": "/ˈkemɪst/",
+        "meaning": ["化学师"]
+      },
+      {
+        "word": "clerk",
+        "pronunciation": "/klɑːk/",
+        "meaning": ["店员"]
+      },
+      {
+        "word": "computer programmer",
+        "pronunciation": "/kəmˈpjuːtə ˈprəʊɡræmə/",
+        "meaning": ["程序员"]
+      },
+      {
+        "word": "dentist",
+        "pronunciation": "/ˈdentɪst/",
+        "meaning": ["牙科医生"]
+      },
+      {
+        "word": "designer",
+        "pronunciation": "/dɪˈzaɪnə/",
+        "meaning": ["设计师"]
+      },
+      {
+        "word": "detective",
+        "pronunciation": "/dɪˈtektɪv/",
+        "meaning": ["侦探"]
+      },
+      {
+        "word": "doctor",
+        "pronunciation": "/ˈdɒktə/",
+        "meaning": ["医生"]
+      },
+      {
+        "word": "driver",
+        "pronunciation": "/ˈdraɪvə/",
+        "meaning": ["司机"]
+      },
+      {
+        "word": "editor",
+        "pronunciation": "/ˈedɪtə/",
+        "meaning": ["编辑"]
+      },
+      {
+        "word": "electrician",
+        "pronunciation": "/ɪlekˈtrɪʃn/",
+        "meaning": ["电工"]
+      },
+      {
+        "word": "engineer",
+        "pronunciation": "/ˌendʒɪˈnɪə/",
+        "meaning": ["工程师"]
+      },
+      {
+        "word": "farmer",
+        "pronunciation": "/ˈfɑːmə/",
+        "meaning": ["农夫"]
+      },
+      {
+        "word": "fireman",
+        "pronunciation": "/ˈfaɪəmən/",
+        "meaning": ["消防员"]
+      },
+      {
+        "word": "fisherman",
+        "pronunciation": "/ˈfɪʃəmən/",
+        "meaning": ["渔夫"]
+      },
+      {
+        "word": "gardener",
+        "pronunciation": "/ˈɡɑːdnə/",
+        "meaning": ["花匠，园丁"]
+      },
+      {
+        "word": "journalist",
+        "pronunciation": "/ˈdʒɜːnəlɪst/",
+        "meaning": ["记者"]
+      },
+      {
+        "word": "judge",
+        "pronunciation": "/dʒʌdʒ/",
+        "meaning": ["法官"]
+      },
+      {
+        "word": "lawyer",
+        "pronunciation": "/ˈlɔːjə/",
+        "meaning": ["律师"]
+      },
+      {
+        "word": "librarian",
+        "pronunciation": "/laɪˈbreəriən/",
+        "meaning": ["图书管理员"]
+      },
+      {
+        "word": "mechanic",
+        "pronunciation": "/məˈkænɪk/",
+        "meaning": ["机械师，机修工"]
+      },
+      {
+        "word": "musician",
+        "pronunciation": "/mjuːˈzɪʃn/",
+        "meaning": ["音乐家"]
+      },
+      {
+        "word": "nurse",
+        "pronunciation": "/nɜːs/",
+        "meaning": ["护士"]
+      },
+      {
+        "word": "pharmacist",
+        "pronunciation": "/ˈfɑːməsɪst/",
+        "meaning": ["药剂师"]
+      },
+      {
+        "word": "photographer",
+        "pronunciation": "/fəˈtɒɡrəfə/",
+        "meaning": ["摄影师"]
+      },
+      {
+        "word": "pilot",
+        "pronunciation": "/ˈpaɪlət/",
+        "meaning": ["飞行员"]
+      },
+      {
+        "word": "policeman",
+        "pronunciation": "/pəˈliːsmən/",
+        "meaning": ["警察"]
+      },
+      {
+        "word": "postman",
+        "pronunciation": "/ˈpəʊstmən/",
+        "meaning": ["邮差"]
+      },
+      {
+        "word": "reporter",
+        "pronunciation": "/rɪˈpɔːtə/",
+        "meaning": ["记者"]
+      },
+      {
+        "word": "scientist",
+        "pronunciation": "/ˈsaɪəntɪst/",
+        "meaning": ["科学家"]
+      },
+      {
+        "word": "secretary",
+        "pronunciation": "/ˈsekrətri/",
+        "meaning": ["秘书"]
+      },
+      {
+        "word": "singer",
+        "pronunciation": "/ˈsɪŋə/",
+        "meaning": ["歌手"]
+      },
+      {
+        "word": "teacher",
+        "pronunciation": "/ˈtiːtʃə/",
+        "meaning": ["教师"]
+      },
+      {
+        "word": "technician",
+        "pronunciation": "/tekˈnɪʃn/",
+        "meaning": ["技术人员"]
+      },
+      {
+        "word": "translator",
+        "pronunciation": "/trænsˈleɪtə/",
+        "meaning": ["翻译（笔译）"]
+      },
+      {
+        "word": "waiter",
+        "pronunciation": "/ˈweɪtə/",
+        "meaning": ["侍者，服务生"]
+      },
+      {
+        "word": "waitress",
+        "pronunciation": "/ˈweɪtrəs/",
+        "meaning": ["女侍者，女服务生"]
+      },
+      {
+        "word": "writer",
+        "pronunciation": "/ˈraɪtə/",
+        "meaning": ["作家"]
+      }
+    ]
+  },
+  {
+    "typeName": "身份类",
+    "wordList": [
+      {
+        "word": "relative",
+        "pronunciation": "/ˈrelətɪv/",
+        "meaning": ["亲戚"]
+      },
+      {
+        "word": "couple",
+        "pronunciation": "/ˈkʌpl/",
+        "meaning": ["情侣"]
+      },
+      {
+        "word": "buddy",
+        "pronunciation": "/ˈbʌdi/",
+        "meaning": ["哥们"]
+      },
+      {
+        "word": "confidante",
+        "pronunciation": "/ˈkɒnfɪdænt/",
+        "meaning": ["闺蜜"]
+      },
+      {
+        "word": "schoolmate",
+        "pronunciation": "/ˈskuːlmeɪt/",
+        "meaning": ["学友"]
+      },
+      {
+        "word": "master",
+        "pronunciation": "/ˈmɑːstə/",
+        "meaning": ["师傅"]
+      },
+      {
+        "word": "mentor",
+        "pronunciation": "/ˈmentɔː/",
+        "meaning": ["导师"]
+      },
+      {
+        "word": "intimate",
+        "pronunciation": "/ˈɪntɪmət/",
+        "meaning": ["至交"]
+      },
+      {
+        "word": "sworn brother",
+        "pronunciation": "/swɔːn ˈbrʌðə/",
+        "meaning": ["结拜兄弟"]
+      },
+      {
+        "word": "superior",
+        "pronunciation": "/suːˈpɪəriə/",
+        "meaning": ["上级"]
+      },
+      {
+        "word": "partner",
+        "pronunciation": "/ˈpɑːtnə/",
+        "meaning": ["搭档"]
+      },
+      {
+        "word": "companion",
+        "pronunciation": "/kəmˈpæniən/",
+        "meaning": ["同伴"]
+      },
+      {
+        "word": "comrade-in-arms",
+        "pronunciation": "/ˈkɒmreɪd ɪn ɑːmz/",
+        "meaning": ["战友"]
+      }
+    ]
+  },
+  {
+    "typeName": "社会关系类",
+    "wordList": [
+      {
+        "word": "colleague",
+        "pronunciation": "/ˈkɒliːɡ/",
+        "meaning": ["同事"]
+      },
+      {
+        "word": "fellow apprentice",
+        "pronunciation": "/ˈfeləʊ əˈprentɪs/",
+        "meaning": ["师兄弟"]
+      },
+      {
+        "word": "peer",
+        "pronunciation": "/pɪə/",
+        "meaning": ["同等的人，同龄人"]
+      },
+      {
+        "word": "subordinate",
+        "pronunciation": "/səˈbɔːdɪnət/",
+        "meaning": ["属下，附属物"]
+      }
+    ]
+  }
+]

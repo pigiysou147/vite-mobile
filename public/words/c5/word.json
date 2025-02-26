@@ -1,0 +1,153 @@
+[
+  {
+    "type": "education",
+    "typeName": "教育阶段与机构",
+    "wordList": [
+      {
+        "word": "primary education",
+        "pronunciation": "/ˈpraɪməri ˌedʒuˈkeɪʃn/",
+        "meaning": ["初等教育"]
+      },
+      {
+        "word": "secondary education",
+        "pronunciation": "/ˈsekəndri ˌedʒuˈkeɪʃn/",
+        "meaning": ["中等教育"]
+      },
+      {
+        "word": "higher education",
+        "pronunciation": "/ˈhaɪə(r) ˌedʒuˈkeɪʃn/",
+        "meaning": ["高等教育"]
+      },
+      {
+        "word": "university",
+        "pronunciation": "/ˌjuːnɪˈvɜːsəti/",
+        "meaning": ["大学"]
+      },
+      {
+        "word": "college",
+        "pronunciation": "/ˈkɒlɪdʒ/",
+        "meaning": ["学院；专科学校"]
+      }
+    ]
+  },
+  {
+    "typeName": "人员角色",
+    "wordList": [
+      {
+        "word": "professor",
+        "pronunciation": "/prəˈfesə(r)/",
+        "meaning": ["教授"]
+      },
+      {
+        "word": "lecturer",
+        "pronunciation": "/ˈlektʃərə(r)/",
+        "meaning": ["讲师"]
+      },
+      {
+        "word": "tutor",
+        "pronunciation": "/ˈtjuːtə(r)/",
+        "meaning": ["导师；家庭教师"]
+      },
+      {
+        "word": "student",
+        "pronunciation": "/ˈstjuːdnt/",
+        "meaning": ["学生"]
+      },
+      {
+        "word": "pupil",
+        "pronunciation": "/ˈpjuːpl/",
+        "meaning": ["小学生"]
+      }
+    ]
+  },
+  {
+    "typeName": "课程与学习",
+    "wordList": [
+      {
+        "word": "course",
+        "pronunciation": "/kɔːs/",
+        "meaning": ["课程"]
+      },
+      {
+        "word": "curriculum",
+        "pronunciation": "/kəˈrɪkjələm/",
+        "meaning": ["课程体系；全部课程"]
+      },
+      {
+        "word": "subject",
+        "pronunciation": "/ˈsʌbdʒɪkt/",
+        "meaning": ["学科；科目"]
+      },
+      {
+        "word": "homework",
+        "pronunciation": "/ˈhəʊmwɜːk/",
+        "meaning": ["家庭作业"]
+      }
+    ]
+  },
+  {
+    "typeName": "学位与证书",
+    "wordList": [
+      {
+        "word": "degree",
+        "pronunciation": "/dɪˈɡriː/",
+        "meaning": ["学位"]
+      },
+      {
+        "word": "diploma",
+        "pronunciation": "/dɪˈpləʊmə/",
+        "meaning": ["文凭；毕业证书"]
+      },
+      {
+        "word": "bachelor",
+        "pronunciation": "/ˈbætʃələ(r)/",
+        "meaning": ["学士"]
+      }
+    ]
+  },
+  {
+    "typeName": "校园设施与资源",
+    "wordList": [
+      {
+        "word": "campus",
+        "pronunciation": "/ˈkæmpəs/",
+        "meaning": ["校园"]
+      },
+      {
+        "word": "library",
+        "pronunciation": "/ˈlaɪbrəri/",
+        "meaning": ["图书馆"]
+      }
+    ]
+  },
+  {
+    "typeName": "学术与考试",
+    "wordList": [
+      {
+        "word": "exam",
+        "pronunciation": "/ɪɡˈzæm/",
+        "meaning": ["考试"]
+      },
+      {
+        "word": "research",
+        "pronunciation": "/rɪˈsɜːtʃ/",
+        "meaning": ["研究"]
+      }
+    ]
+  },
+  {
+    "typeName": "学习方式与能力",
+    "wordList": [
+      {
+        "word": "learn",
+        "pronunciation": "/lɜːn/",
+        "meaning": ["学习；学会"]
+      },
+      {
+        "word": "knowledge",
+        "pronunciation": "/ˈnɒlɪdʒ/",
+        "meaning": ["知识"]
+      }
+    ]
+  }
+]
