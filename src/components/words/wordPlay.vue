@@ -88,7 +88,7 @@ function initWord() {
       <span font-bold>{{ word }}</span> <span>{{ pronunciation }}</span>
     </div>
     <audio ref="audioRef" style="display: none" controls :autoplay="autoplay" none>
-      <source :src="`/words/voices/${word}.wav`" type="audio/mpeg">
+      <source :src="`/voices/${word}.wav`" type="audio/mpeg">
     </audio>
     <div ref="wordContianerRef" class="wordcloud" />
   </div>
